@@ -2,7 +2,7 @@
 layout: blog
 menuId: MenuBlog
 title: Blog
-permalink: blog
+permalink: /blog.html
 ---
 
 ## Placeholder for Blog

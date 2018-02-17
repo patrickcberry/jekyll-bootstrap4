@@ -2,7 +2,7 @@
 layout: page-sidebar-title
 menuId: MenuAbout
 title: About
-permalink: about
+permalink: /about.html
 carousel: true
 ---
 

@@ -2,7 +2,7 @@
 layout: page-sidebar-title
 menuId: MenuContact
 title: Contact
-permalink: contact
+permalink: /contact.html
 carousel: true
 ---
 

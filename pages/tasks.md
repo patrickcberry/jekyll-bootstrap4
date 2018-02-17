@@ -2,7 +2,7 @@
 layout: default
 menuId: MenuTasks
 title: Tasks
-permalink: tasks
+permalink: /tasks.html
 ---
 <div class="alert alert-warning">
   <div class="">
@@ -46,11 +46,10 @@ permalink: tasks
 - Add search (see example in the Jekyll site)
 - Blog post https://favicon.io/
 - Flicker when switch between pages
+- Google analytics
 
-#### Deployment
-- AWS S3 - check if can restrict visiability 
-- Set up S3 bucket and security
-- Deployment script
+#### AWS
+- Image on test page is not displayed
 </div>
 </div>
 

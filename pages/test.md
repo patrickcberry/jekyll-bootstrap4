@@ -2,7 +2,7 @@
 layout: default
 menuId: MenuTest
 title: Test
-permalink: test
+permalink: /test.html
 ---
 <div class="card bg-warning">
   <div class="card-body">

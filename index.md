@@ -7,7 +7,7 @@ card1-image: /assets/about-me.jpg
 card1-title: About Page
 card1-text: An about page has been added to the site describing the the purpose of creating the site and some background information on the author.
 card1-update: Today
-card1-link: /about
+card1-link: /about.html
 card1-link-text: See the new About page
 
 card2-image: /assets/200x200-red.png
