@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: page-sidebar-title
+menuId: MenuAbout
 title: About
 permalink: about
+carousel: true
 ---
 
 This is the personal website of Patrick Berry. 

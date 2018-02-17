@@ -1,6 +1,19 @@
+markdown:     kramdown
+highlighter:  rouge
+
+title:        Patrick Berry
+tagline:      'Portfolio'
+description:  'Personal portfolio site for Patrick Berry'
+
 sass:
     load_paths:
         - _sass
         - node_modules
 
 exclude: []
+
+collections_dir: collections
+
+collections:
+    interests:
+        output: true
