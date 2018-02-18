@@ -49,7 +49,7 @@ permalink: /tasks.html
 - Google analytics
 
 #### AWS
-- Image on test page is not displayed
+
 </div>
 </div>
 
@@ -67,6 +67,7 @@ permalink: /tasks.html
 
 #### Carsouel
 - Add a link to each text panel for additional information
+- On page change store last image in cookie or local storage and resume from next image when next displayed
 
 #### Contacts
 - Hover on icons not working
