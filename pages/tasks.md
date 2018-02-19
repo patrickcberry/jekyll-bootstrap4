@@ -49,6 +49,8 @@ permalink: /tasks.html
 - Google analytics
 
 #### AWS
+- Create a branch with an under construction page
+- Create a script to switch branch and push to S3
 
 </div>
 </div>
