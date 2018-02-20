@@ -1,3 +1,19 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/hydeout.css" />  	
+  </head>
+  
+
+  <body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %} theme-base-07">
+
+    {% include sidebar.html %}
+
+    <main class="container">
+      {{ content }}
+    </main>
+
+    {% include custom-foot.html %}
+  </body>
+</html>

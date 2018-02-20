@@ -30,7 +30,12 @@ permalink: /tasks.html
 ##### Blog
 - Create template
 - Add sidebar https://bootstrapious.com/p/bootstrap-sidebar (use #2)
-- Inital post
+- Inital post(s)
+- Add tag cloud
+- Add category pages
+- Add discuss (is this a plugin)
+- Pin posts
+- Most recent
 
 </div>
 </div>
@@ -49,7 +54,6 @@ permalink: /tasks.html
 - Google analytics
 
 #### AWS
-- Create a branch with an under construction page
 - Create a script to switch branch and push to S3
 
 </div>
