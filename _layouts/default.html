@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en-us">
+   
+   {% include head.html %} 
+
+    <body>
+
+        {% include topmenu.html %}
+
+        {% include carousel.html %}
+
+    	<div class="container clear-nav-bar clear-footer">	
+    		{{content}}
+    	</div>
+
+        {% include footer.html %}
+
+        {% include scripts.html %}  
+
+        {% include navbar-updater.html %}      
+
+    </body>
+</html>
