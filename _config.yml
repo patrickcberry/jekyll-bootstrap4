@@ -11,9 +11,3 @@ sass:
         - node_modules
 
 exclude: []
-
-collections_dir: collections
-
-collections:
-    interests:
-        output: true
