@@ -3,6 +3,7 @@ layout: default
 menuId: MenuTasks
 title: Tasks
 permalink: /tasks.html
+sidebar_link: true
 ---
 <div class="alert alert-warning">
   <div class="">
@@ -28,14 +29,17 @@ permalink: /tasks.html
 #### Current Major Activities 
 
 ##### Blog
-- Create template
-- Add sidebar https://bootstrapious.com/p/bootstrap-sidebar (use #2)
+- Templates and styles
+- download archive
+- search (algolia)
 - Inital post(s)
-- Add tag cloud
-- Add category pages
-- Add discuss (is this a plugin)
+- Configure discuss
 - Pin posts
 - Most recent
+- Format sidebar (font sizes)
+- Format sidebar (group categories)
+- Sidebar background color
+- https://github.com/sverrirs/jekyll-paginate-v2
 
 </div>
 </div>

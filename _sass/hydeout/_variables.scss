@@ -15,7 +15,7 @@ $brown: #8f5536 !default;
 
 $root-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif !default;
 $root-font-size: 1rem !default;
-$root-line-height: 1.5 !default;
+$root-line-height: 1.2 !default;
 //$root-font-size: 0.9rem !default;
 //$root-line-height: 1.2 !default;
 
@@ -35,7 +35,7 @@ $sidebar-width: 18rem !default;
 
 $large-breakpoint: 49rem !default;
 //$large-font-size: 1.25rem !default;
-$large-font-size: 1.15rem !default;
+$large-font-size: 1.1rem !default;
 
 $box-shadow-size: 1px !default;
 $box-shadow-opacity: 0.16 !default;
@@ -48,6 +48,7 @@ $code-font-family: Menlo, Monaco, "Courier New", monospace !default;
 $code-color: #bf616a !default;
 
 // Hyde theming
-$sidebar-bg-color: #202020 !default;
+//$sidebar-bg-color: #202020 !default;
+$sidebar-bg-color: #005021;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;

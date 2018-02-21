@@ -17,3 +17,6 @@ collections_dir: collections
 collections:
     interests:
         output: true
+
+plugins:
+  - jekyll-feed

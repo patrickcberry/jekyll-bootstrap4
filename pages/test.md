@@ -31,3 +31,16 @@ A list of markdown,
 - Item 3
 
 <img src="/assets/markdown.png" alt="">
+
+### site.pages
+{% assign pages_list = site.pages %}
+{% for node in pages_list %}
+{{ node.title }} <br>
+{% endfor %}
+
+### site.posts
+{% assign pages_list = site.posts %}
+{% for node in pages_list %}
+{{ node.title }} <br>
+{% endfor %}
+
