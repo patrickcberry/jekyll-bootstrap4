@@ -29,7 +29,7 @@ sidebar_link: true
 #### Current Major Activities 
 
 ##### Blog
-- Templates and styles
+- Categories page (listing all categories)
 - download archive
 - search (algolia)
 - Inital post(s)
@@ -38,8 +38,6 @@ sidebar_link: true
 - Most recent
 - Format sidebar (font sizes)
 - Format sidebar (group categories)
-- Sidebar background color
-- https://github.com/sverrirs/jekyll-paginate-v2
 
 </div>
 </div>
@@ -50,12 +48,13 @@ sidebar_link: true
 - Livereload working
 
 #### General
-- Add blog
 - Add resume
 - Add search (see example in the Jekyll site)
 - Blog post https://favicon.io/
 - Flicker when switch between pages
 - Google analytics
+- https://github.com/sverrirs/jekyll-paginate-v2
+- Add a right sidebar
 
 #### AWS
 - Create a script to switch branch and push to S3
