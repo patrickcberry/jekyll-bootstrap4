@@ -26,18 +26,29 @@ sidebar_link: true
 
 <div class="col-md-4">            
 <div markdown="1">
-#### Current Major Activities 
+#### Current Major Activities
 
-##### Blog
-- Categories page (listing all categories)
-- download archive
-- search (algolia)
-- Inital post(s)
-- Configure discuss
-- Pin posts
-- Most recent
-- Format sidebar (font sizes)
-- Format sidebar (group categories)
+##### Resume
+- ~~Create layout~~
+- Add sidebar
+- Create two test pages
+- Add updated for sidebar
+
+##### Migrate resume content
+- Summary and objectives
+- Capabilities
+- Achievements
+- Specialties
+- Key positions
+- Employment history
+- Employers
+- Projects
+- Experience
+- Skills
+- Qualifications and certifications
+- Training
+- Locations
+- Clients
 
 </div>
 </div>
@@ -45,16 +56,26 @@ sidebar_link: true
 <div class="col-md-4">
 <div markdown="1">
 #### Environment
-- Livereload working
+- Live reload working
 
 #### General
-- Add resume
 - Add search (see example in the Jekyll site)
 - Blog post https://favicon.io/
 - Flicker when switch between pages
 - Google analytics
 - https://github.com/sverrirs/jekyll-paginate-v2
 - Add a right sidebar
+
+##### Blog
+- Categories page (listing all categories)
+- download archive
+- search (algolia)
+- Initial post(s)
+- Configure discuss
+- Pin posts
+- Most recent
+- Format sidebar (font sizes)
+- Format sidebar (group categories)
 
 #### AWS
 - Create a script to switch branch and push to S3
@@ -85,8 +106,6 @@ sidebar_link: true
 
 </div>
 </div>
-        
+
 </div>
 </div>
-
-

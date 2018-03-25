@@ -10,7 +10,7 @@
       </li>
 
       <li class="nav-item" id="MenuResume">
-        <a class="nav-link disabled" href="#">Resume </a>
+        <a class="nav-link" href="/resume.html">Resume</a>
       </li>
 
       <li class="nav-item" id="MenuInterests">
@@ -19,7 +19,7 @@
 
       <li class="nav-item" id="MenuBlog">
         <a class="nav-link" href="/blog.html">Blog</a>
-      </li>     
+      </li>
 
       <li class="nav-item" id="MenuContact">
         <a class="nav-link" href="/contact.html">Contact</a>
@@ -31,24 +31,24 @@
 
       <li class="nav-item" id="MenuTest">
         <a class="nav-link" href="/test.html">Test</a>
-      </li>      
+      </li>
       <li class="nav-item" id="MenuTasks">
         <a class="nav-link" href="/tasks.html">Tasks</a>
-      </li>            
+      </li>
     </ul>
   </div>
 </nav>
 
 
 <script>
-  
+
   function setActiveMenuItem( menuId ) {
     console.log( "The menuId: " + menuId );
 
     // Clear active class on all menu items
     $(".nav-item").removeClass('active');
 
-    // Set active menu item 
+    // Set active menu item
     $('#'+menuId).addClass('active');
   }
 
