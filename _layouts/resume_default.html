@@ -1,11 +1,34 @@
 ---
-layout: default
+
 ---
 
-<div class="row">
+<!DOCTYPE html>
+<html lang="en-us">
 
-    <div class="col-md-12 col-lg-12">
-        {{content}}
-    </div>
+   {% include head.html %}
 
-</div>
+    <body>
+
+        {% include topmenu.html %}
+
+        {% include carousel.html %}
+
+        <div class="container-resume page-content">
+          <div class="row">
+            <div class="col-lg-2 col-md-2 col-sm-12">
+              {% include sidebar-resume.html %}
+            </div>
+            <div class="col-lg-10 col-md-10 col-sm-12">
+              {{content}}
+            </div>
+          </div>
+        </div>
+
+        {% include footer.html %}
+
+        {% include scripts.html %}
+
+        {% include navbar-updater.html %}
+
+    </body>
+</html>

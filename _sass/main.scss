@@ -1,4 +1,4 @@
-// Padding to add to page content to ensure that is clear of the 
+// Padding to add to page content to ensure that is clear of the
 // navbar
 
 .clear-nav-bar {
@@ -7,4 +7,20 @@
 
 .clear-footer {
 	padding-bottom: 60px;
+}
+
+/* Widen the container
+-------------------------------------------------- */
+
+@media (min-width: 1200px) {
+  .container-resume {
+      width: 95%;
+      height: 100%;
+  }
+}
+
+.sidebar-wrapper {
+  padding-top: 10px;
+  margin-left: 10px;
+	margin-right: 10px;
 }

@@ -1,0 +1,101 @@
+
+
+
+<style>
+
+	.nav-pills > li > a {
+        color: #9d9d9d;
+        //background-color: #222;
+				background-color: #3D3D3D;
+	}
+
+
+    .nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+        color: #fff;
+        //background-color: black;
+				background-color: #005021;
+    }
+
+    .nav-pills > li > a:hover {
+        color: #fff;
+        //background-color: black;
+				background-color: #005021;
+    }
+
+    .nav-pills > li.disabled > a, .nav-pills > li.disabled > a:focus, .nav-pills > li.disabled > a:hover {
+        color: #9d9d9d;
+        //background-color: #222;
+				background-color: #3D3D3D;
+    }
+
+		.nav-pad {
+			padding-bottom: 2px;
+		}
+
+		.nav-link-sm {
+			font-size: 13px;
+		}
+
+</style>
+
+<div class="sidebar-wrapper">
+	<div class="nav flex-column nav-pills">
+
+		<li class="nav-item nav-pad" role="presentation" class="{{checkActiveMenuItem 'summary'}}">
+			<a class="nav-link nav-link-sm" href="/resume">Summary & Objectives</a>
+		</li>
+
+		<li class="nav-item nav-pad" role="presentation" class="{{checkActiveMenuItem 'capabilities'}}">
+			<a class="nav-link nav-link-sm" href="/resume/capabilities">Capabilities</a>
+		</li>
+
+		<li class="nav-item nav-pad disabled" role="presentation" class="{{checkActiveMenuItem 'achievements'}}">
+			<a class="nav-link nav-link-sm" href="/resume/achievements">Achievements</a>
+		</li>
+
+		<li class="nav-item nav-pad" role="presentation" class="{{checkActiveMenuItem 'specialities'}}">
+			<a class="nav-link nav-link-sm" href="/resume/specialities">Specialities</a>
+		</li>
+
+		<li class="nav-item nav-pad" role="presentation" class="{{checkActiveMenuItem 'keypositions'}}">
+			<a class="nav-link nav-link-sm" href="/resume/keypositions">Key Positions</a>
+		</li>
+
+		<li class="nav-item nav-pad" role="presentation" class="{{checkActiveMenuItem 'history'}}">
+			<a class="nav-link nav-link-sm" href="/resume/history">Employment History</a>
+		</li>
+
+		<li class="nav-item nav-pad" role="presentation" class="disabled">
+			<a class="nav-link nav-link-sm disabled" href="#">Employers</a>
+		</li>
+
+		<li class="nav-item nav-pad" role="presentation" class="disabled">
+			<a class="nav-link nav-link-sm" href="#">Projects</a>
+		</li>
+
+		<li class="nav-item nav-pad" role="presentation" class="{{checkActiveMenuItem 'experience'}}">
+			<a class="nav-link nav-link-sm" href="/resume/experience">Expereince</a>
+		</li>
+
+		<li class="nav-item nav-pad" role="presentation" class="disabled">
+			<a class="nav-link nav-link-sm" href="#">Skills</a>
+		</li>
+
+		<li class="nav-item nav-pad" role="presentation" class="{{checkActiveMenuItem 'qualifications'}}">
+			<a class="nav-link nav-link-sm" href="/resume/qualifications">Qualifications & Certifications</a>
+		</li>
+
+		<li class="nav-item nav-pad" role="presentation" class="{{checkActiveMenuItem 'training'}}">
+			<a class="nav-link nav-link-sm" href="/resume/training">Training</a>
+		</li>
+
+		<li class="nav-item nav-pad" role="presentation" class="disabled">
+			<a class="nav-link nav-link-sm" href="#">Locations</a>
+		</li>
+
+		<li class="nav-item nav-pad" role="presentation" class="disabled">
+			<a class="nav-link nav-link-sm" href="#">Clients</a>
+		</li>
+
+	</div>
+</div>

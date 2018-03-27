@@ -30,9 +30,15 @@ sidebar_link: true
 
 ##### Resume
 - ~~Create layout~~
-- Add sidebar
-- Create two test pages
-- Add updated for sidebar
+- ~~Add sidebar~~
+- ~~Create two test pages~~
+- Add active page indication to sidebar
+
+#### Resume Sidebar
+- Modify colors to match rest of site
+- Disable links not implemented
+- Active status shown
+- ~~Remove copyright (it is in the footer)~~
 
 ##### Migrate resume content
 - Summary and objectives
@@ -63,19 +69,22 @@ sidebar_link: true
 - Blog post https://favicon.io/
 - Flicker when switch between pages
 - Google analytics
+- User tracking?
 - https://github.com/sverrirs/jekyll-paginate-v2
 - Add a right sidebar
 
 ##### Blog
 - Categories page (listing all categories)
-- download archive
-- search (algolia)
+- Download archive
+- Search (algolia)
 - Initial post(s)
 - Configure discuss
 - Pin posts
 - Most recent
 - Format sidebar (font sizes)
 - Format sidebar (group categories)
+- Layout formatting (match the rest of the site)
+- Article printing
 
 #### AWS
 - Create a script to switch branch and push to S3
