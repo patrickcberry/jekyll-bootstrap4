@@ -32,29 +32,30 @@ sidebar_link: true
 - ~~Create layout~~
 - ~~Add sidebar~~
 - ~~Create two test pages~~
-- Add active page indication to sidebar
+- ~~Add active page indication to sidebar~~
+- Complete list of content to be created
 
 #### Resume Sidebar
-- Modify colors to match rest of site
-- Disable links not implemented
-- Active status shown
+- ~~Modify colors to match rest of site~~
+- ~~Disable links not implemented~~
+- ~~Active status shown~~
 - ~~Remove copyright (it is in the footer)~~
 
 ##### Migrate resume content
-- Summary and objectives
-- Capabilities
-- Achievements
+- ~~Summary and objectives~~
+- ~~Capabilities~~
+- ~~Achievements~~
 - Specialties
 - Key positions
 - Employment history
-- Employers
-- Projects
-- Experience
-- Skills
+- ~~Employers~~
+- ~~Projects~~
+- ~~Experience~~
+- ~~Skills~~
 - Qualifications and certifications
 - Training
-- Locations
-- Clients
+- ~~Locations~~
+- ~~Clients~~
 
 </div>
 </div>
@@ -71,7 +72,7 @@ sidebar_link: true
 - Google analytics
 - User tracking?
 - https://github.com/sverrirs/jekyll-paginate-v2
-- Add a right sidebar
+- ~~Add a right sidebar~~
 
 ##### Blog
 - Categories page (listing all categories)
@@ -111,7 +112,13 @@ sidebar_link: true
 #### Contacts
 - Hover on icons not working
 
-#### 404 Page
+#### Resume content
+
+#### Closeout and deploy
+- Remove test page
+- Remove tasks page
+
+Needs to be completed
 
 </div>
 </div>

@@ -6,26 +6,29 @@
 	.nav-pills > li > a {
         color: #9d9d9d;
         //background-color: #222;
-				background-color: #3D3D3D;
+				background-color: #004E1A;
 	}
 
 
     .nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
-        color: #fff;
+        color: white;
         //background-color: black;
-				background-color: #005021;
+				background-color: #004E1A;
     }
 
     .nav-pills > li > a:hover {
         color: #fff;
         //background-color: black;
-				background-color: #005021;
+				background-color: #004E1A;
     }
 
     .nav-pills > li.disabled > a, .nav-pills > li.disabled > a:focus, .nav-pills > li.disabled > a:hover {
         color: #9d9d9d;
         //background-color: #222;
-				background-color: #3D3D3D;
+				background-color: #004E1A
+				color: #777;
+			  text-decoration: none;
+			  cursor: not-allowed;
     }
 
 		.nav-pad {
@@ -41,61 +44,75 @@
 <div class="sidebar-wrapper">
 	<div class="nav flex-column nav-pills">
 
-		<li class="nav-item nav-pad" role="presentation" class="{{checkActiveMenuItem 'summary'}}">
+		<li class="nav-item nav-pad resume-sidebar-item" role="presentation" id="ResumeSummary">
 			<a class="nav-link nav-link-sm" href="/resume">Summary & Objectives</a>
 		</li>
 
-		<li class="nav-item nav-pad" role="presentation" class="{{checkActiveMenuItem 'capabilities'}}">
+		<li class="nav-item nav-pad resume-sidebar-item" role="presentation" id="ResumeCapabilities">
 			<a class="nav-link nav-link-sm" href="/resume/capabilities">Capabilities</a>
 		</li>
 
-		<li class="nav-item nav-pad disabled" role="presentation" class="{{checkActiveMenuItem 'achievements'}}">
+		<li class="nav-item nav-pad resume-sidebar-item" role="presentation" id="ResumeAchievements">
 			<a class="nav-link nav-link-sm" href="/resume/achievements">Achievements</a>
 		</li>
 
-		<li class="nav-item nav-pad" role="presentation" class="{{checkActiveMenuItem 'specialities'}}">
-			<a class="nav-link nav-link-sm" href="/resume/specialities">Specialities</a>
+		<li class="nav-item nav-pad disabled resume-sidebar-item" role="presentation" id="ResumeSpecialities">
+			<a class="nav-link nav-link-sm" href="#">Specialities</a>
 		</li>
 
-		<li class="nav-item nav-pad" role="presentation" class="{{checkActiveMenuItem 'keypositions'}}">
-			<a class="nav-link nav-link-sm" href="/resume/keypositions">Key Positions</a>
+		<li class="nav-item nav-pad disabled resume-sidebar-item" role="presentation" class="{{checkActiveMenuItem 'keypositions'}}">
+			<a class="nav-link nav-link-sm" href="#">Key Positions</a>
 		</li>
 
-		<li class="nav-item nav-pad" role="presentation" class="{{checkActiveMenuItem 'history'}}">
-			<a class="nav-link nav-link-sm" href="/resume/history">Employment History</a>
+		<li class="nav-item nav-pad disabled resume-sidebar-item" role="presentation" class="{{checkActiveMenuItem 'history'}}">
+			<a class="nav-link nav-link-sm" href="#">Employment History</a>
 		</li>
 
-		<li class="nav-item nav-pad" role="presentation" class="disabled">
-			<a class="nav-link nav-link-sm disabled" href="#">Employers</a>
+		<li class="nav-item nav-pad resume-sidebar-item" role="presentation" id="ResumeEmployers">
+			<a class="nav-link nav-link-sm" href="/resume/employers">Employers</a>
 		</li>
 
-		<li class="nav-item nav-pad" role="presentation" class="disabled">
-			<a class="nav-link nav-link-sm" href="#">Projects</a>
+		<li class="nav-item nav-pad resume-sidebar-item" role="presentation" id="ResumeProjects">
+			<a class="nav-link nav-link-sm" href="/resume/projects">Projects</a>
 		</li>
 
-		<li class="nav-item nav-pad" role="presentation" class="{{checkActiveMenuItem 'experience'}}">
-			<a class="nav-link nav-link-sm" href="/resume/experience">Expereince</a>
+		<li class="nav-item nav-pad resume-sidebar-item" role="presentation" id="ResumeExpereince">
+			<a class="nav-link nav-link-sm" href="/resume/expereince">Expereince</a>
 		</li>
 
-		<li class="nav-item nav-pad" role="presentation" class="disabled">
-			<a class="nav-link nav-link-sm" href="#">Skills</a>
+		<li class="nav-item nav-pad resume-sidebar-item" role="presentation" id="ResumeSkills">
+			<a class="nav-link nav-link-sm" href="/resume/skills">Skills</a>
 		</li>
 
-		<li class="nav-item nav-pad" role="presentation" class="{{checkActiveMenuItem 'qualifications'}}">
-			<a class="nav-link nav-link-sm" href="/resume/qualifications">Qualifications & Certifications</a>
+		<li class="nav-item nav-pad disabled resume-sidebar-item" role="presentation" class="{{checkActiveMenuItem 'qualifications'}}">
+			<a class="nav-link nav-link-sm" href="#">Qualifications & Certifications</a>
 		</li>
 
-		<li class="nav-item nav-pad" role="presentation" class="{{checkActiveMenuItem 'training'}}">
+		<li class="nav-item nav-pad resume-sidebar-item" role="presentation" id="ResumeTraining">
 			<a class="nav-link nav-link-sm" href="/resume/training">Training</a>
 		</li>
 
-		<li class="nav-item nav-pad" role="presentation" class="disabled">
-			<a class="nav-link nav-link-sm" href="#">Locations</a>
+		<li class="nav-item nav-pad resume-sidebar-item" role="presentation" id="ResumeLocations">
+			<a class="nav-link nav-link-sm" href="/resume/locations">Locations</a>
 		</li>
 
-		<li class="nav-item nav-pad" role="presentation" class="disabled">
-			<a class="nav-link nav-link-sm" href="#">Clients</a>
+		<li class="nav-item nav-pad resume-sidebar-item" role="presentation" id="ResumeClients">
+			<a class="nav-link nav-link-sm" href="/resume/clients">Clients</a>
 		</li>
 
 	</div>
 </div>
+
+<script>
+
+  function setActiveResumeMenuItem( menuId ) {
+    console.log( "The resume menuId: " + menuId );
+
+    // Clear active class on all menu items
+    $(".nav-item .resume-sidebar-item").removeClass('active');
+
+    // Set active menu item
+    $('#'+menuId).addClass('active');
+  }
+
+</script>
