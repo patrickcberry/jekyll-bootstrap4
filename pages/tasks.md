@@ -28,34 +28,30 @@ sidebar_link: true
 <div markdown="1">
 #### Current Major Activities
 
-##### Resume
-- ~~Create layout~~
-- ~~Add sidebar~~
-- ~~Create two test pages~~
-- ~~Add active page indication to sidebar~~
-- Complete list of content to be created
+##### Resume Formatting
+- Reduce font size
+- Collapse sidebar on small devices
+- Sidebar selected items bold
 
-#### Resume Sidebar
-- ~~Modify colors to match rest of site~~
-- ~~Disable links not implemented~~
-- ~~Active status shown~~
-- ~~Remove copyright (it is in the footer)~~
+##### CV Material Incorporated
 
-##### Migrate resume content
-- ~~Summary and objectives~~
-- ~~Capabilities~~
-- ~~Achievements~~
-- Specialties
-- Key positions
-- Employment history
-- ~~Employers~~
-- ~~Projects~~
-- ~~Experience~~
-- ~~Skills~~
-- Qualifications and certifications
-- Training
-- ~~Locations~~
-- ~~Clients~~
+##### Cover Letter Material Incorporated
+
+##### Resume Content
+- Summary & Objectives - Review
+- Capabilities - Create
+- Achievements - Create
+- Specialties - Create
+- Key positions - Review & Fonts
+- Employment History - Accordion working, Links
+- Employers - Create
+- Projects - Create
+- Experience - Create
+- Skills - Create
+- Qualifications - Review and Update
+- Training - Review and Update, Fonts
+- Locations - Create
+- Clients - Create
 
 </div>
 </div>
@@ -78,7 +74,7 @@ sidebar_link: true
 - Categories page (listing all categories)
 - Download archive
 - Search (algolia)
-- Initial post(s)
+- Initial post(s) x 2
 - Configure discuss
 - Pin posts
 - Most recent
@@ -96,7 +92,10 @@ sidebar_link: true
 <div class="col-md-4">
 <div markdown="1">
 #### Home
-- Content to home page
+- ~~About page Content~~
+- ~~Resume pages~~
+- Blog entry 1
+- Blog entry 2
 
 #### About
 - Add made with Jekyll, Bootstrap etc. (above footer)
@@ -111,14 +110,11 @@ sidebar_link: true
 
 #### Contacts
 - Hover on icons not working
-
-#### Resume content
+- Font size
 
 #### Closeout and deploy
-- Remove test page
+- ~~Remove test page~~
 - Remove tasks page
-
-Needs to be completed
 
 </div>
 </div>
