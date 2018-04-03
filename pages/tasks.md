@@ -59,7 +59,7 @@ sidebar_link: true
 <div class="col-md-4">
 <div markdown="1">
 #### Environment
-- Live reload working
+- ~~Live reload working~~
 
 #### General
 - Add search (see example in the Jekyll site)
@@ -74,7 +74,10 @@ sidebar_link: true
 - Categories page (listing all categories)
 - Download archive
 - Search (algolia)
-- Initial post(s) x 2
+- Initial post(s) x 2 (one complete, one more required)
+- Cleanup Hydeout posts
+- Clean up sidebar
+- Add most recent
 - Configure discuss
 - Pin posts
 - Most recent
@@ -82,6 +85,8 @@ sidebar_link: true
 - Format sidebar (group categories)
 - Layout formatting (match the rest of the site)
 - Article printing
+- Widen post area
+- Add right sidebar?
 
 #### AWS
 - Create a script to switch branch and push to S3
@@ -94,8 +99,9 @@ sidebar_link: true
 #### Home
 - ~~About page Content~~
 - ~~Resume pages~~
-- Blog entry 1
+- ~~Blog entry 1~~
 - Blog entry 2
+- Most recent blog posts listed
 
 #### About
 - Add made with Jekyll, Bootstrap etc. (above footer)

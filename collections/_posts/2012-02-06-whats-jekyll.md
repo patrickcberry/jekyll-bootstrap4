@@ -11,3 +11,5 @@ category: Jekyll
 It's an immensely useful tool and one we encourage you to use here with Hyde.
 
 Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+
+__NOTE:__ This post taken from the [Hydeout](https://github.com/fongandrew/hydeout) Jekyll distribution.

@@ -19,9 +19,11 @@ card2-link-text: See the online resume
 
 
 card3-image: /assets/blog1.png
-card3-title: Blog Post
-card3-text: This is an entry for a yet to be written blog post
-card3-update: Last updated (some time in the future)
+card3-title: Jekyll Live reload
+card3-text: Resolution to live reload issue running Jekyll on Windows 10
+card3-update: 03 April 2018
+card3-link: /jekyll/2018/04/03/jekyll-live-reload-on-windows-10.html
+card3-link-text: Read post ...
 
 card4-image: /assets/blog2.jpg
 card4-title: Blog Post
