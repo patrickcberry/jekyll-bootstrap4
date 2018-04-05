@@ -20,3 +20,6 @@ collections:
 
 plugins:
   - jekyll-feed
+
+disqus:
+  shortname: patrickcberry

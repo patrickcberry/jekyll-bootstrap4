@@ -78,7 +78,7 @@ sidebar_link: true
 - Cleanup Hydeout posts
 - Clean up sidebar
 - Add most recent
-- Configure discuss
+- Discuss (page titles working)
 - Pin posts
 - Most recent
 - Format sidebar (font sizes)

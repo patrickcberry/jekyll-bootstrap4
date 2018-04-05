@@ -14,8 +14,14 @@
   */
   var disqus_config = function () {
     this.page.url = "{{ page.url | absolute_url }}";
-    this.page.identifier = "{{ page.guid or page.id }}" ||
-                           "{{ page.url | absolute_url }}";
+    //this.page.identifier = "{{ page.guid or page.id }}" ||
+    //                       "{{ page.url | absolute_url }}";
+    this.page.title = "{{ page.title }}";
+
+
+    console.log('this.page.url: ' + this.page.url );
+    console.log('this.page.identifier: ' + this.page.identifier);
+    console.log('this.page.title: ' + this.page.title );
   }
   function loadDisqusComments() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
@@ -41,3 +47,13 @@
     <code>comments.html</code> partial for this theme.
   </p>
 {% endif %}
+
+PAGE.URL: {{ page.url | absolute_url }}
+<br>
+PAGE.GUID: {{page.guid}}
+<br>
+PAGE.ID: {{page.id}}
+<br>
+PAGE.IDENTIFIED: {{ page.guid or page.id }}
+<br>
+{{page.title}}
