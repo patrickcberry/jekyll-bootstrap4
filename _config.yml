@@ -20,6 +20,24 @@ collections:
 
 plugins:
   - jekyll-feed
+  - jekyll-paginate-v2
+  - jekyll-tagging-related_posts
 
 disqus:
   shortname: patrickcberry
+
+sidebar_home_link: true
+sidebar_blog_link: /blog.html
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 4
+  permalink: '/page/:num/'
+  title_suffix: ' - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+# Produces a cleaner folder structure when using categories
+permalink: /:year/:month/:title.html

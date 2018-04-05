@@ -3,6 +3,9 @@ layout: post
 title: Example content
 categories:
   - Reference
+tags:
+  - Reference
+  - Markup
 ---
 
 

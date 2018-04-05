@@ -26,7 +26,13 @@ sidebar_link: true
 
 <div class="col-md-4">            
 <div markdown="1">
-#### Current Major Activities
+#### Completed Pages
+- H
+- R
+- I
+- B
+- Contact
+- About
 
 ##### Resume Formatting
 - Reduce font size
@@ -63,33 +69,29 @@ sidebar_link: true
 
 #### General
 - Add search (see example in the Jekyll site)
-- Blog post https://favicon.io/
-- Flicker when switch between pages
+- ~~Blog post https://favicon.io/~~
 - Google analytics
-- User tracking?
-- https://github.com/sverrirs/jekyll-paginate-v2
+- ~~https://github.com/sverrirs/jekyll-paginate-v2~~
 - ~~Add a right sidebar~~
 
 ##### Blog
-- Categories page (listing all categories)
+- ~~Categories page (listing all categories)~~
 - Download archive
 - Search (algolia)
-- Initial post(s) x 2 (one complete, one more required)
+- ~~Initial post(s) x 2 (one complete, one more required)~~
 - Cleanup Hydeout posts
-- Clean up sidebar
-- Add most recent
-- Discuss (page titles working)
-- Pin posts
-- Most recent
+- ~~Clean up sidebar~~
+- ~~Add most recent~~
+- ~~Discuss (page titles working)~~
+- Pin posts http://talk.jekyllrb.com/t/how-to-pin-a-post/971
 - Format sidebar (font sizes)
-- Format sidebar (group categories)
+- ~~Format sidebar (group categories)~~
 - Layout formatting (match the rest of the site)
 - Article printing
 - Widen post area
 - Add right sidebar?
-
-#### AWS
-- Create a script to switch branch and push to S3
+- --LSI option to classify blog posts
+- jekyll-sitemap
 
 </div>
 </div>
@@ -100,7 +102,7 @@ sidebar_link: true
 - ~~About page Content~~
 - ~~Resume pages~~
 - ~~Blog entry 1~~
-- Blog entry 2
+- ~~Blog entry 2~~
 - Most recent blog posts listed
 
 #### About
@@ -117,6 +119,9 @@ sidebar_link: true
 #### Contacts
 - Hover on icons not working
 - Font size
+
+#### Blog Posts
+- Digital transformation of internal engineering teams
 
 #### Closeout and deploy
 - ~~Remove test page~~

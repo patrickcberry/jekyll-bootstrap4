@@ -48,6 +48,7 @@
   </p>
 {% endif %}
 
+{% comment %}
 PAGE.URL: {{ page.url | absolute_url }}
 <br>
 PAGE.GUID: {{page.guid}}
@@ -57,3 +58,4 @@ PAGE.ID: {{page.id}}
 PAGE.IDENTIFIED: {{ page.guid or page.id }}
 <br>
 {{page.title}}
+{% endcomment %}

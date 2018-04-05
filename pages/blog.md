@@ -1,16 +1,8 @@
 ---
-layout: blogindex
+layout: index
 title: Blog
+pagination:
+  enabled: true
+blog-sidebar-debug: true
 permalink: /blog.html
 ---
-
-***This is a placeholder page for a blog***
-
-### Tasks
-
-- List most recent posts
-- List pinned posts
-- Include extracts
-- Include images (for each post)    
-
-

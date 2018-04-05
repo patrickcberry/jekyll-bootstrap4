@@ -3,6 +3,4 @@ layout: category
 title: Reference
 ---
 
-Reference documents
-
-...
+Reference documents.
