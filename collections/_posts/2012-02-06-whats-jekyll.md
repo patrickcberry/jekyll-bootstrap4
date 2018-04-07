@@ -5,6 +5,9 @@ category: Jekyll
 tags:
   Jekyll
 ---
+<div class="message">
+  <b>NOTE:</b> This post taken from the <a href="https://github.com/fongandrew/hydeout">Hydeout</a> Jekyll distribution.
+</div>
 
 [Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
 
@@ -13,5 +16,3 @@ tags:
 It's an immensely useful tool and one we encourage you to use here with Hyde.
 
 Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
-
-__NOTE:__ This post taken from the [Hydeout](https://github.com/fongandrew/hydeout) Jekyll distribution.

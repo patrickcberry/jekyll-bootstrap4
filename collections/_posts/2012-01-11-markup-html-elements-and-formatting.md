@@ -3,15 +3,16 @@ layout: post
 title: "Markup: HTML Elements and Formatting"
 sub_title: "The common elements"
 categories:
+  - Jekyll
   - Markup
-elements:
-  - content
-  - css
-  - formatting
-  - html
-  - markup
+tags:
+  - Jekyll
+  - Markup
 last_modified_at: 2017-03-09T10:55:59-05:00
 ---
+<div class="message">
+  <b>NOTE:</b> This post taken from the <a href="https://github.com/fongandrew/hydeout">Hydeout</a> Jekyll distribution.
+</div>
 
 A variety of common HTML elements to demonstrate the theme's stylesheet and verify they have been styled appropriately.
 

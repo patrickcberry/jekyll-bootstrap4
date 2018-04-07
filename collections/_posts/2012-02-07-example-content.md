@@ -2,12 +2,15 @@
 layout: post
 title: Example content
 categories:
-  - Reference
+  - Jekyll
+  - Markup
 tags:
-  - Reference
+  - Jekyll
   - Markup
 ---
-
+<div class="message">
+  <b>NOTE:</b> This post taken from the <a href="https://github.com/fongandrew/hydeout">Hydeout</a> Jekyll distribution.
+</div>
 
 <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.

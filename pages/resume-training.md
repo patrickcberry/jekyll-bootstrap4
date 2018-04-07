@@ -5,31 +5,10 @@ resumeSectionId: ResumeTraining
 title: Resume
 permalink: /resume/training.html
 ---
-
-<br>
-
-<div class="alert alert-warning">
-  <div class="">
-    <h4 class="alert-heading">Note: </h4>
-    <!--
-    <h5 class="alert-subheading">Page not found</h5>
-    -->
-    <p class="">This page to be updated before site deployment.</p>
-    <!--
-    <a href="#" class="card-link">Card link</a>
-    <a href="#" class="card-link">Another link</a>
-    -->
-  </div>
-</div>
-
-<br>
-
-
-### Current Studies
-
-*...to be completed...*
-
-### Completed Training
+<div class="container" style="padding-top:10px" markdown="1">
+<div class="row" markdown="1">
+{% comment %}
+#### Current Studies
 
 <table class="table table-stripped">
   <thead>
@@ -42,6 +21,42 @@ permalink: /resume/training.html
   </thead>
 
   <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>  
+  </tbody>
+</table>
+{% endcomment %}
+
+
+#### Completed Training
+
+<table class="table table-stripped">
+  <thead>
+    <tr>
+      <th>Course</th>
+      <th>Provider</th>
+      <th>Date</th>
+      <th>Location</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>Energy from Waste</td>
+      <td>Veolia Technical and Performance Department</td>
+      <td>2017</td>
+      <td>Sydney, Australia</td>
+    </tr>  
+    <tr>
+      <td>Veolia Strategic Management Program</td>
+      <td>MGSM</td>
+      <td>2017</td>
+      <td>Sydney, Australia</td>
+    </tr>
     <tr>
       <td>Control Systems Cyber Security</td>
       <td>Edith Cowan University</td>
@@ -211,3 +226,6 @@ permalink: /resume/training.html
 
   </tfoot>
 </table>
+
+</div>
+</div>

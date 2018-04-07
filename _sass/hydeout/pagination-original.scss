@@ -7,23 +7,17 @@
 */
 
 .pagination {
-  marging-top: 0px;
-  padding-top: 0px;
-  margin-bottom: 0px;
-  margin-bottom: 30px;
-  //margin-bottom: $section-spacing;
+  margin-bottom: $section-spacing;
   color: $gray-3;
   text-align: center;
 
   > a {
     display: inline-block;
-    //padding: $padding-v $padding-h;
-    padding: 5px 5px;
+    padding: $padding-v $padding-h;
     border: solid $border-color;
-    //border-radius: $border-radius;
-    border-radius: 0.3em;
+    border-radius: $border-radius;
     border-width: 1px;
-    width: 15%;
+    width: 60%;
     max-width: $sidebar-width;
     background: $body-bg;
     box-shadow: $default-box-shadow;
@@ -31,19 +25,6 @@
     &:hover {
       background-color: $border-color;
     }
-  }
-
-  .page_number {
-    margin-left: 10px;
-    margin-right: 10px;
-  }
-
-  .previous {
-    float: left!important;
-  }
-
-  .next {
-    float: right!important;
   }
 }
 

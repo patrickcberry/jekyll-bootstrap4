@@ -202,7 +202,8 @@ body {
     }
 
     > * {
-      max-width: 38rem;
+      //max-width: 38rem;
+      max-width: 48rem;    // Widened from Hydeout default
       padding: 0;
     }
   }

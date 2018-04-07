@@ -15,4 +15,4 @@ last_modified_at: 2018-04-05
 
 Jekyll theme for project and product documentation.
 
-[See ...](https://idratherbewriting.com)
+[See ...](http://idratherbewriting.com/documentation-theme-jekyll/)

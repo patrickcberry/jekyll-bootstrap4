@@ -6,4 +6,10 @@ title: Resume
 permalink: /resume/projects.html
 ---
 
-***This is a placeholder page for a resume projects***
+## List of all projects
+
+{% for item in site.projects %}
+  <h3>{{ item.title }}</h3>
+  <p>{{ item.description }}</p>
+  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+{% endfor %}

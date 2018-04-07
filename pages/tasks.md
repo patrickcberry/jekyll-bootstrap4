@@ -3,7 +3,6 @@ layout: default
 menuId: MenuTasks
 title: Tasks
 permalink: /tasks.html
-sidebar_link: true
 ---
 <div class="alert alert-warning">
   <div class="">
@@ -26,24 +25,24 @@ sidebar_link: true
 
 <div class="col-md-4">            
 <div markdown="1">
-#### Completed Pages
-- H
+##### Pre Deployment
+###### Completed Pages
+- Home
 - R
-- I
-- B
+- Blog
 - Contact
 - About
 
-##### Resume Formatting
-- Reduce font size
-- Collapse sidebar on small devices
-- Sidebar selected items bold
+###### Resume Formatting
+- Align images on timeline
 
-##### CV Material Incorporated
+###### CV Material Incorporated
+- Print
 
-##### Cover Letter Material Incorporated
+###### Cover Letter Material Incorporated
+- Print
 
-##### Resume Content
+###### Resume Content
 - Summary & Objectives - Review
 - Capabilities - Create
 - Achievements - Create
@@ -54,8 +53,8 @@ sidebar_link: true
 - Projects - Create
 - Experience - Create
 - Skills - Create
-- Qualifications - Review and Update
-- Training - Review and Update, Fonts
+- ~~Qualifications - Review and Update~~
+- ~~Training - Review and Update, Fonts~~
 - Locations - Create
 - Clients - Create
 
@@ -64,68 +63,55 @@ sidebar_link: true
 
 <div class="col-md-4">
 <div markdown="1">
-#### Environment
-- ~~Live reload working~~
+##### Pre Deployment (Continued)
 
-#### General
-- Add search (see example in the Jekyll site)
-- ~~Blog post https://favicon.io/~~
-- Google analytics
-- ~~https://github.com/sverrirs/jekyll-paginate-v2~~
-- ~~Add a right sidebar~~
-
-##### Blog
-- ~~Categories page (listing all categories)~~
-- Download archive
-- Search (algolia)
-- ~~Initial post(s) x 2 (one complete, one more required)~~
-- Cleanup Hydeout posts
-- ~~Clean up sidebar~~
-- ~~Add most recent~~
-- ~~Discuss (page titles working)~~
-- Pin posts http://talk.jekyllrb.com/t/how-to-pin-a-post/971
-- Format sidebar (font sizes)
-- ~~Format sidebar (group categories)~~
-- Layout formatting (match the rest of the site)
-- Article printing
-- Widen post area
-- Add right sidebar?
-- --LSI option to classify blog posts
-- jekyll-sitemap
+###### Closeout and deploy
+- Post deployment tasks to GitHub issues
+- Remove tasks page
 
 </div>
 </div>
 
 <div class="col-md-4">
 <div markdown="1">
-#### Home
-- ~~About page Content~~
-- ~~Resume pages~~
-- ~~Blog entry 1~~
-- ~~Blog entry 2~~
+##### Post Deployment
+
+###### Resume Formatting
+- Collapse sidebar on small devices
+
+###### Home
 - Most recent blog posts listed
 
-#### About
+###### About
 - Add made with Jekyll, Bootstrap etc. (above footer)
 
-#### Interests
+###### Blog
+- Hide sidebar sections headers if no items present
+- Download archive
+- Search (algolia)
+- Pin posts http://talk.jekyllrb.com/t/how-to-pin-a-post/971
+- Article printing
+- Add right sidebar?
+- --LSI option to classify blog posts
+- jekyll-sitemap
+- Format sidebar (font sizes)
+- Layout formatting (match the rest of the site)
+
+###### Interests
 - Add content
 - Formatting
+- Replace menu item
 
-#### Carsouel
+###### Carsouel
 - Add a link to each text panel for additional information
 - On page change store last image in cookie or local storage and resume from next image when next displayed
 
-#### Contacts
+###### Contacts
 - Hover on icons not working
-- Font size
 
-#### Blog Posts
+###### Blog Posts
 - Digital transformation of internal engineering teams
-
-#### Closeout and deploy
-- ~~Remove test page~~
-- Remove tasks page
+- Static website generation
 
 </div>
 </div>

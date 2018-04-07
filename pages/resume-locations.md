@@ -8,6 +8,8 @@ permalink: /resume/locations.html
 
 ***This is a placeholder page for a resume locations***
 
+#### Locations to be included
+
 Australia
 - Melbourne
 - Sydney
@@ -15,6 +17,18 @@ Australia
 - Bayswater Power Station
 - Woodlawn Bioreactor
 - Noosa
+- Chinchilla
+- SSR
+- Adelaide
+- Bendigo
+- Ballarat
+- Castlemaine
+- Kyneton
+- Nowra
+- Clyde
+- Banksmeadow
+- Jabiru
+- Broken Hill
 
 New Zealand
 - PI Sites
@@ -31,9 +45,10 @@ France
 - Goulbey
 
 China
+- Nanning
 
 Portugal
-- Figurea de forse
+- Figueira da foz
 
 Finland
 - Helsinki

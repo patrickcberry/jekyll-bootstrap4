@@ -1,13 +1,13 @@
 ---
 layout: blog-default
 ---
-
 <div class="content">
 
-  {{page.layout}}
-
+  {% include blog-pagination.html %}
+  <br>
+<!--
   {% include pagination-newer.html %}
-
+-->
   {{ content }}
 
   {% for post in paginator.posts %}
@@ -40,6 +40,16 @@ layout: blog-default
     {% endif %}
   </article>
   {% endfor %}
-
+<!--
   {% include pagination-older.html %}
+-->
+
+  <br>
+
+  {% include blog-pagination.html %}
+
+
+
+
+
 </div>
