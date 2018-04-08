@@ -11,28 +11,36 @@ permalink: /resume/history.html
 
     <div class="timeline">
         <div class="line text-muted"></div>
-        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="false">
 
         	<!-- =================================================================== -->
         	<!-- VEOLIA ANZ -->
 
-            <div class="panel panel-default">
-                <div class="panel-heading" role="tab" id="heading1">
-                    <div class=" icon"><i class="glyphicon glyphicon-one-fine-dot"></i></div>
-                    <table class="panel-title">
-	                    <tr>
-	                    	<td>
-	                    		<h5 class="panel-title">
-		                    		<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
+          <div class="panel panel-default">
+          	<div class="panel-heading" role="tab" id="heading1">
+            	<div class=" icon">
+								<i class="glyphicon glyphicon-one-fine-dot"></i>
+							</div>
+              <table class="panel-title tl-panel-min-width">
+	            	<tr>
+	              	<td>
+	                	<h5 class="panel-title">
+		                	<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
 		          						2014 - Present
 		        					</a>
 		        				</h5>
-	                    	</td>
-	                    	<td><img src="/assets/veolia-logo.png" /></td>
-	                    </tr>
-	                    <tr><td>Veolia ANZ</td></tr>                    
-	                    <tr><td>Electrical, Instrumentation and Controls Manager</td></tr>
-                    </table>
+									</td>
+	                <td align="right">
+										<img src="/assets/veolia-logo.png" />
+									</td>
+	             </tr>
+	             <tr>
+							 		<td>Veolia ANZ</td>
+							 </tr>                    
+	             <tr>
+							 		<td>Electrical, Instrumentation and Controls Manager</td>
+							 </tr>
+           	</table>
 
                 </div>
                 <div id="collapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading1">
@@ -62,7 +70,7 @@ permalink: /resume/history.html
             <div class="panel panel-default">
                 <div class="panel-heading" role="tab" id="heading2">
                     <div class=" icon"> <i class="glyphicon glyphicon-one-fine-dot"></i></div>
-                    <table class="panel-title">
+                    <table class="panel-title tl-panel-min-width">
 	                    <tr>
 	                    	<td>
 	                    		<h5 class="panel-title">
@@ -71,7 +79,7 @@ permalink: /resume/history.html
 		        					</a>
 		        				</h5>
 	                    	</td>
-	                    	<td><img src="/assets/veolia-water-logo.jpg" /></td>
+	                    	<td align="right"><img src="/assets/veolia-water-logo.jpg" /></td>
 	                    </tr>
 	                    <tr><td>Veolia ANZ</td></tr>                    
 	                    <tr><td>Electrical, Instrumentation and Controls Manager</td></tr>
@@ -100,7 +108,7 @@ permalink: /resume/history.html
 
                 <div class="panel-heading" role="tab" id="heading3">
                     <div class=" icon"> <i class="glyphicon glyphicon-one-fine-dot"></i></div>
-                    <table class="panel-title">
+                    <table class="panel-title tl-panel-min-width">
                         <tr>
                             <td>
                                 <h5 class="panel-title">
@@ -109,10 +117,16 @@ permalink: /resume/history.html
                                     </a>
                                 </h5>
                             </td>
-                            <td><img src="/assets/serck-logo.jpg" /></td>
+                            <td align="right">
+															<img src="/assets/serck-logo.jpg" />
+														</td>
                         </tr>
-                        <tr><td>Serck Controls</td></tr>                    
-                        <tr><td>Sydney Manager</td></tr>
+                        <tr>
+													<td>Serck Controls</td>
+												</tr>                    
+                        <tr>
+													<td>Sydney Manager</td>
+												</tr>
                     </table>
                 </div>
                 <div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading3">
@@ -134,7 +148,7 @@ permalink: /resume/history.html
 
                 <div class="panel-heading" role="tab" id="heading4">
                     <div class=" icon"> <i class="glyphicon glyphicon-one-fine-dot"></i></div>
-                    <table class="panel-title">
+                    <table class="panel-title tl-panel-min-width">
                         <tr>
                             <td>
                                 <h5 class="panel-title">
@@ -143,7 +157,7 @@ permalink: /resume/history.html
                                     </a>
                                 </h5>
                             </td>
-                            <td><img src="/assets/mipac-logo.png" /></td>
+                            <td align="right"><img src="/assets/mipac-logo.png" /></td>
                         </tr>
                         <tr><td>MIPAC</td></tr>                    
                         <tr><td>Account Manager - Pulp and Paper</td></tr>
@@ -171,7 +185,7 @@ permalink: /resume/history.html
             <div class="panel panel-default">
                 <div class="panel-heading" role="tab" id="heading5">
                     <div class=" icon"> <i class="glyphicon glyphicon-one-fine-dot"></i></div>
-                    <table class="panel-title">
+                    <table class="panel-title tl-panel-min-width">
                         <tr>
                             <td>
                                 <h5 class="panel-title">
@@ -180,7 +194,7 @@ permalink: /resume/history.html
                                     </a>
                                 </h5>
                             </td>
-                            <td><img src="/assets/mipac-logo.png" /></td>
+                            <td align="right"><img src="/assets/mipac-logo.png" /></td>
                         </tr>
                         <tr><td>MIPAC</td></tr>                    
                         <tr><td>Lead Project Engineer</td></tr>
@@ -209,7 +223,7 @@ permalink: /resume/history.html
 
                 <div class="panel-heading" role="tab" id="heading6">
                     <div class=" icon"> <i class="glyphicon glyphicon-one-fine-dot"></i></div>
-                    <table class="panel-title">
+                    <table class="panel-title tl-panel-min-width">
                         <tr>
                             <td>
                                 <h5 class="panel-title">
@@ -218,7 +232,7 @@ permalink: /resume/history.html
                                     </a>
                                 </h5>
                             </td>
-                            <td><img src="/assets/poyry-logo-1.jpg" /></td>
+                            <td align="right"><img src="/assets/poyry-logo-1.jpg" /></td>
                         </tr>
                         <tr><td>Jaakko Poyry</td></tr>                    
                         <tr><td>Design Engineer</td></tr>
@@ -247,7 +261,7 @@ permalink: /resume/history.html
 
                 <div class="panel-heading" role="tab" id="heading7">
                     <div class=" icon"> <i class="glyphicon glyphicon-one-fine-dot"></i></div>
-                    <table class="panel-title">
+                    <table class="panel-title tl-panel-min-width">
                         <tr>
                             <td>
                                 <h5 class="panel-title">
@@ -256,7 +270,7 @@ permalink: /resume/history.html
                                     </a>
                                 </h5>
                             </td>
-                            <td><img style="width:50px;height:50px;" src="/assets/SECV-logo.jpg" /></td>
+                            <td align="right"><img style="width:50px;height:50px;" src="/assets/SECV-logo.jpg" /></td>
                         </tr>
                         <tr><td>State Electricity Commision of Victoria (SECV)</td></tr>                    
                         <tr><td>Electrical Engineer</td></tr>

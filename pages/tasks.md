@@ -26,21 +26,14 @@ permalink: /tasks.html
 <div class="col-md-4">            
 <div markdown="1">
 ##### Pre Deployment
-###### Completed Pages
-- Home
-- R
-- Blog
-- Contact
-- About
-
-###### Resume Formatting
-- Align images on timeline
 
 ###### CV Material Incorporated
-- Print
+- ~~Print~~
+- Review and include all
 
 ###### Cover Letter Material Incorporated
-- Print
+- ~~Print~~
+- Review and include all
 
 ###### Resume Content
 - Summary & Objectives - Review
@@ -48,22 +41,16 @@ permalink: /tasks.html
 - Achievements - Create
 - Specialties - Create
 - Key positions - Review & Fonts
-- Employment History - Accordion working, Links
+- Employment History - Verify Veolia sites
 - Employers - Create
 - Projects - Create
 - Experience - Create
 - Skills - Create
-- ~~Qualifications - Review and Update~~
-- ~~Training - Review and Update, Fonts~~
 - Locations - Create
 - Clients - Create
 
-</div>
-</div>
-
-<div class="col-md-4">
-<div markdown="1">
-##### Pre Deployment (Continued)
+###### Resume Issues
+- ~~Timeline - align images~~
 
 ###### Closeout and deploy
 - Post deployment tasks to GitHub issues
@@ -74,16 +61,36 @@ permalink: /tasks.html
 
 <div class="col-md-4">
 <div markdown="1">
-##### Post Deployment
+##### Post Deployment (Content)
+
+###### Resume - Interests
+- Add content
+- Formatting
+- Replace menu item
+
+###### Blog Posts
+- Digital transformation of internal engineering teams
+- Static website generation (Jekyll)
+
+</div>
+</div>
+
+<div class="col-md-4">
+<div markdown="1">
+##### Post Deployment (Improvements)
 
 ###### Resume Formatting
 - Collapse sidebar on small devices
+- Timeline - accordion - only one open (need javascript as bootstrap is not loaded)
 
 ###### Home
 - Most recent blog posts listed
 
 ###### About
 - Add made with Jekyll, Bootstrap etc. (above footer)
+
+###### Resume
+- Download PDF link
 
 ###### Blog
 - Hide sidebar sections headers if no items present
@@ -96,11 +103,8 @@ permalink: /tasks.html
 - jekyll-sitemap
 - Format sidebar (font sizes)
 - Layout formatting (match the rest of the site)
-
-###### Interests
-- Add content
-- Formatting
-- Replace menu item
+- Auto load Discuss comments
+- Sharing links (Linkedin, Facebook, Google+ etc.) on each post
 
 ###### Carsouel
 - Add a link to each text panel for additional information
@@ -108,10 +112,6 @@ permalink: /tasks.html
 
 ###### Contacts
 - Hover on icons not working
-
-###### Blog Posts
-- Digital transformation of internal engineering teams
-- Static website generation
 
 </div>
 </div>
