@@ -6,12 +6,19 @@ title: Resume
 permalink: /resume/projects.html
 ---
 
-<div class="alert alert-warning">
+<div class="alert alert-danger">
   <div class="">
-    <h4 class="alert-heading">Note: </h4>
-    <p class="">This page to be removed at the conclusion of initial development.</p>
+    <h4 class="alert-heading">Incomplete page: </h4>
+    <p class="">This page to be completed prior to deployment.</p>
+    <p>To be completed:</p>
+    <ul>
+      <li>Display template for project</li>
+      <li>Categories and tags on projects</li>
+      <li>Filter project by tags and/or categories</li>
+    </ul>
   </div>
 </div>
+
 
 ## List of all projects
 

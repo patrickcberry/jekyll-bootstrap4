@@ -8,12 +8,14 @@ permalink: /resume/expereince.html
 
 <div class="container" style="padding-top:10px">
 
-	<div class="alert alert-warning">
+	<div class="alert alert-danger">
 	  <div class="">
-	    <h4 class="alert-heading">Note: </h4>
-	    <p class="">This page to be removed at the conclusion of initial development.</p>
+	    <h4 class="alert-heading">Incomplete page: </h4>
+	    <p class="">This page to be completed prior to deployment.</p>
 	  </div>
 	</div>
 </div>
 
-***This is a placeholder page for a resume expereince***
+
+
+***This is a placeholder page for a resume experience***

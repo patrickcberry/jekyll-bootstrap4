@@ -7,10 +7,10 @@ permalink: /resume/achievements.html
 ---
 <div class="container" style="padding-top:10px">
 
-<div class="alert alert-warning">
+<div class="alert alert-danger">
   <div class="">
-    <h4 class="alert-heading">Note: </h4>
-    <p class="">This page to be removed at the conclusion of initial development.</p>
+    <h4 class="alert-heading">Incomplete page: </h4>
+    <p class="">This page to be completed prior to deployment.</p>
   </div>
 </div>
 
@@ -22,6 +22,9 @@ permalink: /resume/achievements.html
 ### Team Management
 
 #### Veolia
+- Built team from zero to five
+- Implemented Internship Program
+
 #### MIPAC
 #### Serck Controls
 - Low staff turnover in peak of mining boom
@@ -29,8 +32,10 @@ permalink: /resume/achievements.html
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
 ### Engineering Management
+- Cybersecurity Audits
 - Veolia standards
 - MSSF bid specification
+- PLC / SCADA Library
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
@@ -46,6 +51,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <div markdown="1">
 
 ### Business Process Improvement
+#### VEOLIA
+- Operational Data Management System
+- Bulk Waste Tracking System
+
 #### MIPAC
 - Quotation management system
 - Quotation templates and support materials
@@ -54,7 +63,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Business Development
 #### Serck Controls
-- Diversified client base from utilities only into manufacturing (Flecture Building & CoreGas)
+- Diversified client base from utilities only into manufacturing (Fletcher Building & CoreGas)
 - Quotation management and approval system
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
