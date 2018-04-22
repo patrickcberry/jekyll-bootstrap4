@@ -6,6 +6,14 @@ title: Resume
 permalink: /resume/keypositions.html
 ---
 <div class="container" style="padding-top:10px">
+
+<div class="alert alert-warning">
+  <div class="">
+    <h4 class="alert-heading">Note: </h4>
+    <p class="">This page to be removed at the conclusion of initial development.</p>
+  </div>
+</div>
+
 <div class="row">
 
 <div class="col-md-6">            

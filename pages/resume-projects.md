@@ -6,6 +6,13 @@ title: Resume
 permalink: /resume/projects.html
 ---
 
+<div class="alert alert-warning">
+  <div class="">
+    <h4 class="alert-heading">Note: </h4>
+    <p class="">This page to be removed at the conclusion of initial development.</p>
+  </div>
+</div>
+
 ## List of all projects
 
 {% for item in site.projects %}

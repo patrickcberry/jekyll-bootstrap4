@@ -7,6 +7,15 @@ permalink: /resume/history.html
 ---
 
 <div class="container" style="padding-top:10px">
+
+	<div class="alert alert-warning">
+	  <div class="">
+	    <h4 class="alert-heading">Note: </h4>
+	    <p class="">This page to be removed at the conclusion of initial development.</p>
+	  </div>
+	</div>
+
+
 	<h2>Employment History</h2>
 
     <div class="timeline">

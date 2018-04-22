@@ -10,7 +10,7 @@ permalink: /tasks.html
     <!--
     <h5 class="alert-subheading">Page not found</h5>
     -->
-    <p class="">This page to be removed at the conclusion of inital development.</p>
+    <p class="">This page to be removed at the conclusion of initial development.</p>
     <!--
     <a href="#" class="card-link">Card link</a>
     <a href="#" class="card-link">Another link</a>
