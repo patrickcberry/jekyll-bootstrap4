@@ -2,28 +2,24 @@
 layout: resume_default
 menuId: MenuResume
 resumeSectionId: ResumeProjects
-title: Resume
+title: Resume Projects
 permalink: /resume/projects.html
 ---
 
-<div class="alert alert-danger">
-  <div class="">
-    <h4 class="alert-heading">Incomplete page: </h4>
-    <p class="">This page to be completed prior to deployment.</p>
-    <p>To be completed:</p>
-    <ul>
-      <li>Display template for project</li>
-      <li>Categories and tags on projects</li>
-      <li>Filter project by tags and/or categories</li>
-    </ul>
-  </div>
+<div class="container" style="padding-top:10px">
+
+<div class="row">
+<div class="col-md-12">            
+<div markdown="1">
+
+#### Description
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+</div> <!-- Markdown -->
+</div> <!-- col -->
+</div> <!-- row -->
+
 </div>
-
-
-## List of all projects
-
-{% for item in site.projects %}
-  <h3>{{ item.title }}</h3>
-  <p>{{ item.description }}</p>
-  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
-{% endfor %}

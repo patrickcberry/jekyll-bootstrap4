@@ -20,9 +20,13 @@
             </div>
             <div class="col-lg-10 col-md-10 col-sm-12">
               {{content}}
+              {% include project-category-links.html %}      
             </div>
-          </div>
-        </div>
+          </div> <!-- ROW -->
+          <!--
+          {% include project-category-links.html %}
+          -->
+        </div> <!-- CONTAINER -->
 
         {% include footer.html %}
 
