@@ -1,21 +1,20 @@
 ---
 layout: project
-title: Smart Water Networks Pilot
+title: Chapelle Darplay
 categories:
-  - Information Technology
-  - Predictive Analytics  
+  - Pulp and Paper
 project-tags:
+  - tag1
   - tag2
-  - tag3
-  - tag4
 resumeSectionId: ResumeProjects
+banner-image: upm-france-chapelle-wide.jpg
 brief-description:
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
   quis nostrud.
-date-from: 2017
-date-to: 2018
-location: Victoria, Australia
+date-from: 2014
+date-to: ongoing
+location: Australia and New Zealand
 description:
   - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do  eiusmod  
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,

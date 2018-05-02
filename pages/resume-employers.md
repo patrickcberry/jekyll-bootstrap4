@@ -6,7 +6,7 @@ title: Resume
 permalink: /resume/employers.html
 ---
 
-<div class="container" style="padding-top:10px">
+<div class="container">
 
 <div class="alert alert-danger">
   <div class="">

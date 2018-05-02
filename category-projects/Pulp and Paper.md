@@ -1,6 +1,6 @@
 ---
 layout: project-category
-title: Information Technology
+title: Pulp and Paper
 resumeSectionId: ResumeProjects
 projectCatetory: true
 ---

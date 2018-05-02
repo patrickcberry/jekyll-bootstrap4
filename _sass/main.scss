@@ -19,8 +19,35 @@
   }
 }
 
+.resume-content {
+	padding-top: 10px;
+}
 .sidebar-wrapper {
   padding-top: 10px;
   margin-left: 10px;
 	margin-right: 10px;
+}
+
+
+.project-meta {
+	color: gray;
+	margin-bottom: 0px;
+}
+
+.project-location {
+	color: gray;
+}
+
+a.project-tags {
+  font-size: 0.8em;
+  margin-right: 0.5rem;
+  white-space:nowrap;
+  opacity: 0.6;
+	.tag-text {
+		text-transform: capitalize;
+	}
+  &:hover {
+    text-decoration: none;
+    opacity: 1;
+  }
 }

@@ -5,9 +5,9 @@ resumeSectionId: ResumeTraining
 title: Resume
 permalink: /resume/training.html
 ---
-<div class="container" style="padding-top:10px" markdown="1">
+<div class="container" markdown="1">
 
-<div class="container" style="padding-top:10px">
+<div class="container">
 
 {% include incompleted-page-warning.html %}
 

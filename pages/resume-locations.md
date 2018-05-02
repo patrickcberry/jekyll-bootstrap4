@@ -6,7 +6,7 @@ title: Resume
 permalink: /resume/locations.html
 ---
 
-<div class="container" style="padding-top:10px">
+<div class="container">
 
 	{% include incompleted-page-warning.html %}
 

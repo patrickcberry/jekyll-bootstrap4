@@ -1,25 +1,25 @@
 ---
 layout: resume_default
 ---
-<header>
-  <h1 class="page-title">{{ page.title }}</h1>
-</header>
+
+<h4>{{ page.title }}</h4>
 
 {% unless page.content == '' %}
   {{ content }}
 {% endunless %}
 
-<ul class="posts-list">
+<ul class="projects-list">
   {% assign category = page.category | default: page.title %}
   {% for item in site.projects %}
     {% assign categories = item.categories %}
     {% if categories contains category %}
       <li>
-        <h3>
+        <h6>
           <a href="{{ site.baseurl }}{{ item.url }}">
             {{ item.title }}
           </a>
-        </h3>
+          <small><i>Additional info</i></small>
+        </h6>
       </li>
     {% endif %}
   {% endfor %}

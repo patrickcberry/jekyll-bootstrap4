@@ -1,0 +1,104 @@
+---
+layout: resume_default
+---
+<h4>{{page.title}}</h4>
+<p class="project-meta">
+  {% comment %}
+    Project start and end date - Start date is required, end date is optional
+  {% endcomment %}
+  {{page.date-from}}
+  {% if page.date-to %}
+    -
+    {{page.date-to}}
+  {% endif %}
+
+  {% comment %}
+    List categories
+  {% endcomment %}
+
+  &nbsp;
+
+  <span>
+    {% for category in page.categories %}
+      &bull;
+      {% comment %}
+        Check if this category has a corresponding page before decide
+        to link to it. This is an O(n^2) operations so consider removing
+        it and linking for all categories (or no categories) if this
+        site has a lot of pages and/or a lot of categories.
+      {% endcomment %}
+      {% assign category_page = false %}
+      {% for node in site.pages %}
+        {% if node.category == category or node.title == category %}
+          {% assign category_page = node %}
+        {% endif %}
+      {% endfor %}
+
+      {% if category_page %}
+        <a href="{{ site.baseurl }}{{ category_page.url }}">
+          {{ category }}
+        </a>
+      {% else %}
+        {{ category }}
+      {% endif %}
+    {% endfor %}
+  </span>
+</p>
+
+{% if page.location %}
+<p class="project-location">
+  <span class="fa fa-map-marker"></span>
+  {{page.location}}
+</p>
+{% endif %}
+
+{% if page.banner-image %}
+<img src="/assets/Projects/{{page.banner-image}}" alt="banner-image" width="100%" style="padding: 5px;">
+{% endif %}
+
+<h6>Overview:</h6>
+<p>{{page.brief-description}}</p>
+
+{% if page.description %}
+<h6>Descripton</h6>
+{% for p in page.description %}
+  <p>{{ p }}</p>
+{% endfor %}
+{% endif %}
+
+{% if page.challanges %}
+<h6>Challanges</h6>
+{% for p in page.challanges %}
+  <p>{{ p }}</p>
+{% endfor %}
+{% endif %}
+
+{% if page.accomplishments %}
+<h6>Accomplishments</h6>
+{% for p in page.accomplishments %}
+  <p>{{ p }}</p>
+{% endfor %}
+{% endif %}
+
+{{ content }}
+
+{% if page.project-tags %}
+  {% for t in page.project-tags %}
+    <a class="project-tags" href="/project-tags.html#{{ t | slugify }}">
+      <span class="fa fa-tag" style="color: #004E1A;"></span>
+      &nbsp;
+      <span class="tag-text">{{ t }}</span>
+      &nbsp;
+    </a>
+  {% endfor %}
+{% endif %}
+
+<hr>
+<h6>Related projects:</h6>
+
+<div class="alert alert-danger">
+  <div class="">
+    <h6 class="alert-heading">To be completed: </h6>
+    <p class="">List of related projects to be completed in project.html layout.</p>
+  </div>
+</div>

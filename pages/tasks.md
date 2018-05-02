@@ -27,6 +27,11 @@ permalink: /tasks.html
 <div markdown="1">
 ##### Pre Deployment
 
+###### General
+- Consider changing colour (use a selection from the Google Material colour palate)
+- All references to #004E1A colour to be from stylesheet
+- Implement colour pallet
+
 ###### CV Material Incorporated
 - ~~Print~~
 - Review and include all
@@ -36,7 +41,7 @@ permalink: /tasks.html
 - Review and include all
 
 ###### Resume Content
-- Summary & Objectives - Review
+- ~~Summary & Objectives - Review~~
 - Capabilities - Create
 - Achievements - Create
 - Specialties - Create
@@ -51,6 +56,9 @@ permalink: /tasks.html
 
 ###### Resume Issues
 - ~~Timeline - align images~~
+
+###### Blog
+- Unique ID to all blog posts
 
 ###### Closeout and deploy
 - Post deployment tasks to GitHub issues

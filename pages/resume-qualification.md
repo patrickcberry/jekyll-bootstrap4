@@ -6,7 +6,7 @@ title: Resume
 permalink: /resume/qualifications.html
 ---
 
-<div class="container" style="padding-top:10px">
+<div class="container">
 
 <div class="row">
 <div markdown="1">

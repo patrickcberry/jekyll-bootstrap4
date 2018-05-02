@@ -6,7 +6,7 @@ title: Resume Projects
 permalink: /resume/projects.html
 ---
 
-<div class="container" style="padding-top:10px">
+<div class="container">
 
 <div class="row">
 <div class="col-md-12">            

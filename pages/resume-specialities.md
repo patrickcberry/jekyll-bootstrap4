@@ -5,7 +5,7 @@ resumeSectionId: ResumeSpecialities
 title: Resume
 permalink: /resume/specialities.html
 ---
-<div class="container" style="padding-top:10px">
+<div class="container">
 
 <div class="alert alert-danger">
   <div class="">

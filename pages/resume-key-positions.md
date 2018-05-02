@@ -5,7 +5,7 @@ resumeSectionId: ResumeKeyPositions
 title: Resume
 permalink: /resume/keypositions.html
 ---
-<div class="container" style="padding-top:10px">
+<div class="container">
 
 <div class="alert alert-danger">
   <div class="">
