@@ -4,6 +4,7 @@ title: What's Jekyll?
 category: Jekyll
 tags:
   Jekyll
+guid: 2012-02-06-000
 ---
 <div class="message">
   <b>NOTE:</b> This post taken from the <a href="https://github.com/fongandrew/hydeout">Hydeout</a> Jekyll distribution.

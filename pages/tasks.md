@@ -32,21 +32,16 @@ permalink: /tasks.html
 - All references to #004E1A colour to be from stylesheet
 - Implement colour pallet
 
-###### CV Material Incorporated
-- ~~Print~~
-- Review and include all
-
-###### Cover Letter Material Incorporated
-- ~~Print~~
-- Review and include all
+###### CV and Cover Letter Material Incorporated
+- Review and include CV
+- Review and include Cover Letter
 
 ###### Resume Content
-- ~~Summary & Objectives - Review~~
 - Capabilities - Create
 - Achievements - Create
 - Specialties - Create
 - Key positions - Review & Fonts
-- Employment History - Verify Veolia sites
+- Employment History - Verify number of Veolia sites
 - Employers - Create
 - Projects - Create
 - Experience - Create
@@ -54,11 +49,16 @@ permalink: /tasks.html
 - Locations - Create
 - Clients - Create
 
-###### Resume Issues
-- ~~Timeline - align images~~
+###### Resume Locations
+- Resize map height based on media queries
+- Links from markers to project descriptions
+- Links from project descriptions to map
+- Street view
+- Include all projects/locations
+- Include a legend for different pin colours
 
-###### Blog
-- Unique ID to all blog posts
+###### Google Analytics
+- Add tracking to every page
 
 ###### Closeout and deploy
 - Post deployment tasks to GitHub issues
@@ -74,11 +74,14 @@ permalink: /tasks.html
 ###### Resume - Interests
 - Add content
 - Formatting
-- Replace menu item
+- Replace menu item (currently hidden)
 
 ###### Blog Posts
 - Digital transformation of internal engineering teams
 - Static website generation (Jekyll)
+
+###### Resume Content
+*Some content will need to be delayed to be able to deploy and have blog operational*
 
 </div>
 </div>

@@ -8,6 +8,7 @@ categories:
 tags:
   - Jekyll
 last_modified_at: 2017-04-03
+guid: 2018-04-03-000
 ---
 
 Live reload issue solved when running Jekyll on Windows 10.<!--more-->

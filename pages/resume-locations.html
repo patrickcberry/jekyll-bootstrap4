@@ -1,0 +1,316 @@
+---
+layout: resume_default
+menuId: MenuResume
+resumeSectionId: ResumeLocations
+title: Resume
+permalink: /resume/locations.html
+---
+
+<h3>My Google Maps Demo</h3>
+
+
+
+
+
+
+<div class="container">
+
+  <div class="row">
+    <div class="col-sm-12" id="mapx" style="height:800px;"></div>
+  </div>
+  <div class="row" style="margin: 10px -10px;">
+    <div class="col-md-4">
+      <span>
+        <img src="http://maps.google.com/mapfiles/ms/icons/red-dot.png" alt="" width="27px" height="27px">
+        <small>Project team member, including site works</small>
+      </span>
+    </div>
+    <div class="col-md-4">
+      <span>
+        <img src="http://maps.google.com/mapfiles/ms/icons/blue-dot.png" alt="" width="27px" height="27px">
+        <small>Project team member, no or limited site works</small>
+      </span>
+    </div>
+    <div class="col-md-4">
+      <span>
+        <img src="http://maps.google.com/mapfiles/ms/icons/purple-dot.png" alt="" width="27px" height="27px">
+        <small> Project support or supervision</small>
+      </span>
+    </div>
+  </div>
+
+  <div class="row" style="margin: 10px -10px;">
+    <div class="col-md-4">
+      <span>
+        <img src="http://maps.google.com/mapfiles/ms/icons/orange-dot.png" alt="" width="27px" height="27px">
+        <small> Office</small>
+      </span>
+    </div>
+    <div class="col-md-4">
+      <span>
+        <img src="http://maps.google.com/mapfiles/ms/icons/green-dot.png" alt="" width="27px" height="27px">
+        <small> FAT or similar</small>
+      </span>
+    </div>
+    <div class="col-md-4">
+      <span>
+        <img src="http://maps.google.com/mapfiles/ms/icons/yellow-dot.png" alt="" width="27px" height="27px">
+        <small> Tender</small>
+      </span>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-12">
+      {% include incompleted-page-warning.html %}
+    </div>
+  </div>
+</div>
+
+<div class="container" markdown="1">
+
+#### Locations to be included
+
+Australia
+- Woodlawn Bioreactor
+- Noosa
+- Chinchilla
+- SSR
+- Adelaide
+- Bendigo
+- Ballarat
+- Castlemaine
+- Kyneton
+- Nowra
+- Clyde
+- Banksmeadow
+- Jabiru
+- Broken Hill
+- Maryvale
+- Castlemaine
+- Kyneton
+- BHP - Port Headland?
+- Pimpama -27.807648, 153.335856
+- Mineral Sands?
+- Visy Coolooro
+- Victorian Desalination Plants
+- Adelaide Desalination Plant
+
+New Zealand
+- PI Sites
+
+
+</div>
+
+<script type="text/javascript">
+  var locationData = [];
+
+  locationData.push({
+    title:      "QAF Feeds, Corowa",
+		position:   { lat: -35.970735, lng: 146.407074 },
+    marker:     "yellow"
+  });
+
+
+  locationData.push({
+    title:      "Porgera Gold, Papua New Guinea",
+		position:   { lat: -5.460677, lng: 143.152707},
+    marker:     "yellow"
+  });
+
+  locationData.push({
+    title:      "Jaakko Poyry Southern Africa, Durban",
+		position:   { lat: -29.858304, lng: 31.024113},
+    marker:     "orange"
+  });
+
+  locationData.push({
+    title:      "MIPAC, Albury",
+		position:   { lat: -36.069867, lng: 146.939346},
+    marker:     "orange"
+  });
+
+  locationData.push({
+    title:      "Mondi Paper, Merebank",
+		position:   { lat: -29.960097, lng: 30.965819}
+  });
+
+  locationData.push({
+    title:      "Norske Skog, Albury",
+		position:   { lat: -35.996833, lng: 146.986721}
+  });
+
+  locationData.push({
+    title:      "Jaakko Poyry, Vantaa",
+		position:   { lat: 60.285139, lng: 24.853200},
+    marker:     'orange'
+  });
+
+  locationData.push({
+    title:      "Stora Enso, Port Hawkesbury",
+		position:   { lat: 45.600032, lng: -61.356679}
+  });
+
+  locationData.push({
+    title:      "Mondi, Piet Retief",
+		position:   { lat: -26.938196, lng: 30.766838}
+  });
+
+  locationData.push({
+    title:      "Mondi, Richards Bay",
+    position:   { lat: -28.761593, lng: 31.993802}
+  });
+
+  locationData.push({
+    title:      "SOPORCEL, Figueira da foz",
+    position:   { lat: 40.058956, lng: -8.857051}
+  });
+
+  locationData.push({
+    title:      "Norske Skog, Goulbey",
+    position:   { lat: 48.207373, lng: 6.421134},
+    marker:     'blue'
+  });
+
+  locationData.push({
+    title:      "Nanning Pulp and Paper",
+    position:   { lat: 22.775786, lng: 108.320654},
+    marker:     'blue'
+  });
+
+  locationData.push({
+    title:      "Bayswater Power Station",
+    position:   { lat: -32.390994, lng: 150.952702},
+    marker:     'red'
+  });
+
+  locationData.push({
+    title:      "Sydney Desalination Plant",
+    position:   { lat: -34.024849, lng: 151.204892},
+    marker:     'red'
+  });
+
+  locationData.push({
+    title:      "Fairfield AWTP",
+    position:   { lat: -33.878238, lng: 150.952269},
+    marker:     'red'
+  });
+
+  locationData.push({
+    title:      "UPM Kymmene Grand Curonne Paper Mill, Rouen",
+    position:   { lat: 49.369129, lng: 1.011552},
+    marker:     'red'
+  });
+
+  locationData.push({
+    title:      "Cartiere Burgo Verzuolo Paper Mill",
+    position:   { lat: 44.597637, lng: 7.485220},
+    marker:     'blue'
+  });
+
+  locationData.push({
+    title:      "Valmet Automation, Tampere",
+    position:   { lat: 61.466404, lng: 23.755273},
+    marker:     'green'
+  });
+
+  locationData.push({
+    title:      "Honeywell, Varkus",
+    position:   { lat: 62.310852, lng: 27.890028},
+    marker:     'green'
+  });
+
+  locationData.push({
+    title:      "State Electricity Commision of Victoria (SECV), Melbourne",
+    position:   { lat: -37.818625, lng: 144.960580},
+    marker:     'orange'
+  });
+
+  locationData.push({
+    title:      "Jaakko Poyry, Melbourne",
+    position:   { lat: -37.840603, lng: 144.975298},
+    marker:     'orange'
+  });
+
+  locationData.push({
+    title:      "Mount Piper Power Station",
+    position:   { lat: -33.356605, lng: 150.036590},
+    marker:     'purple'
+  });
+
+  locationData.push({
+    title:      "Goulburn Valley Water, Shepperton",
+    position:   { lat: -36.379548, lng: 145.402424},
+    marker:     'red'
+  });
+
+  locationData.push({
+    title:      "Veolia, Pyrmont",
+    position:   { lat: -33.868508, lng: 151.196813},
+    marker:     'orange'
+  });
+
+  locationData.push({
+    title:      "Serck Controls",
+    position:   { lat: -33.881489, lng: 151.021717},
+    marker:     'orange'
+  });
+
+
+</script>
+
+<script>
+  function initMap() {
+    console.log('===> initMap');
+
+    var uluru = {lat: -25.363, lng: 131.044};
+    var mondi_merebank = { lat: -29.960097, lng: 30.965819};
+
+    var map = new google.maps.Map(document.getElementById('mapx'), {
+      zoom: 4,
+      center: uluru
+    });
+
+    var bounds = new google.maps.LatLngBounds();
+
+    for (i = 0; i < locationData.length; i++ ) {
+    	marker = new google.maps.Marker({
+    	  	position: locationData[i].position,
+    	  	title: locationData[i].title,
+    	    map: map,
+    	    idx: i
+      });
+
+      marker.setIcon('http://maps.google.com/mapfiles/ms/icons/red-dot.png')
+
+      if ( locationData[i].marker ) {
+
+        marker.setIcon('http://maps.google.com/mapfiles/ms/icons/' + locationData[i].marker + '-dot.png');
+
+
+        if ( locationData[i].marker === 'blue' ) {
+          marker.setIcon('http://maps.google.com/mapfiles/ms/icons/blue-dot.png')
+        }
+
+        if ( locationData[i].marker === 'green' ) {
+          marker.setIcon('http://maps.google.com/mapfiles/ms/icons/green-dot.png')
+        }
+
+        if ( locationData[i].marker === 'red' ) {
+          marker.setIcon('http://maps.google.com/mapfiles/ms/icons/red-dot.png')
+        }
+
+      }
+
+      bounds.extend(marker.getPosition());
+    }
+
+    map.setCenter(bounds.getCenter());
+    map.fitBounds(bounds);
+    map.setZoom(map.getZoom()-1);
+  }
+</script>
+
+<script
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAG5T18ASG7zOsxgiWYlEJNQJXJLHOb6j8&callback=initMap" async defer>
+</script>

@@ -9,8 +9,6 @@ permalink: /resume/training.html
 
 <div class="container">
 
-{% include incompleted-page-warning.html %}
-
 <div class="row" markdown="1">
 {% comment %}
 #### Current Studies

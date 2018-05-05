@@ -37,7 +37,7 @@ Veolia has extensive operations across Australia and New Zealand and my responsi
 - Maintain relationships with key equipment and service providers
 
 Relevent organisations:
-- Veolia Water Australia and New Zealand
+- Veolia Australia and New Zealand
 - Veolia Water Australia
 
 ### Operations Manager
@@ -79,6 +79,7 @@ A selection of significant projects that I have managed,
 Veolia Water Australia and New Zealand
 
 Relevent organisations:
+- Veolia Australia and New Zealand
 - Veolia Water Australia
 - Serck Controls
 - MIPAC

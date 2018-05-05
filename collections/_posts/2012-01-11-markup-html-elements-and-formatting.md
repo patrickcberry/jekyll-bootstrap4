@@ -9,6 +9,7 @@ tags:
   - Jekyll
   - Markup
 last_modified_at: 2017-03-09T10:55:59-05:00
+guid: 2012-01-11-000
 ---
 <div class="message">
   <b>NOTE:</b> This post taken from the <a href="https://github.com/fongandrew/hydeout">Hydeout</a> Jekyll distribution.
