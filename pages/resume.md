@@ -7,6 +7,13 @@ permalink: /resume.html
 ---
 <div class="container">
 
+<div class="alert alert-danger">
+  <div class="">
+    <h4 class="alert-heading">Incomplete page: </h4>
+    <p class="">This page to be completed prior to deployment.</p>
+  </div>
+</div>
+
 <div class="row">
 
 <div class="col-md-6">            

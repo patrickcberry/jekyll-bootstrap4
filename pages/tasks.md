@@ -34,6 +34,7 @@ permalink: /tasks.html
 
 ###### CV and Cover Letter Material Incorporated
 - Review and include CV
+- Review all content against updated CV for 2018
 - Review and include Cover Letter
 
 ###### Resume Content
@@ -48,6 +49,7 @@ permalink: /tasks.html
 - Skills - Create
 - Locations - Create
 - Clients - Create
+- Add a section for conferences (also to CV?)
 
 ###### Resume Locations
 - Resize map height based on media queries
@@ -56,9 +58,13 @@ permalink: /tasks.html
 - Street view
 - Include all projects/locations
 - Include a legend for different pin colours
+- Update page title
 
 ###### Google Analytics
 - Add tracking to every page
+
+###### Blog
+- Update theme colours
 
 ###### Closeout and deploy
 - Post deployment tasks to GitHub issues

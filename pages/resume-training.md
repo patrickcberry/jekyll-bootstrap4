@@ -9,6 +9,19 @@ permalink: /resume/training.html
 
 <div class="container">
 
+<div class="alert alert-danger">
+  <div class="">
+    <h4 class="alert-heading">Incomplete page: </h4>
+    <p class="">This page to be completed prior to deployment.</p>
+    <p>Add the following items hear and in CV:</p>
+    <ul>
+      <li>Machine Safety</li>
+      <li>OSIsoft</li>
+    </ul>
+  </div>
+</div>
+
+
 <div class="row" markdown="1">
 {% comment %}
 #### Current Studies
