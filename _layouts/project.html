@@ -1,6 +1,14 @@
 ---
 layout: resume_default
 ---
+{% if page.banner-image %}
+<img src="/assets/Projects/{{page.banner-image}}" alt="banner-image" width="100%" style="padding-bottom: 10px;">
+{% endif %}
+
+{% if page.client-logo %}
+<img src="/assets/Projects/{{page.client-logo}}" alt="client-logo" width="80px" style="float:right; padding: 5px;">
+{% endif %}
+
 <h4>{{page.title}}</h4>
 <p class="project-meta">
   {% comment %}
@@ -46,59 +54,105 @@ layout: resume_default
 </p>
 
 {% if page.location %}
-<p class="project-location">
+<p class="project-location" style="margin-bottom: 5px;">
   <span class="fa fa-map-marker"></span>
   {{page.location}}
 </p>
 {% endif %}
 
-{% if page.banner-image %}
-<img src="/assets/Projects/{{page.banner-image}}" alt="banner-image" width="100%" style="padding: 5px;">
-{% endif %}
-
-<h6>Overview:</h6>
-<p>{{page.brief-description}}</p>
-
-{% if page.description %}
-<h6>Descripton</h6>
-{% for p in page.description %}
-  <p>{{ p }}</p>
-{% endfor %}
-{% endif %}
-
-{% if page.challanges %}
-<h6>Challanges</h6>
-{% for p in page.challanges %}
-  <p>{{ p }}</p>
-{% endfor %}
-{% endif %}
-
-{% if page.accomplishments %}
-<h6>Accomplishments</h6>
-{% for p in page.accomplishments %}
-  <p>{{ p }}</p>
-{% endfor %}
-{% endif %}
-
-{{ content }}
-
 {% if page.project-tags %}
+<p>
   {% for t in page.project-tags %}
-    <a class="project-tags" href="/project-tags.html#{{ t | slugify }}">
-      <span class="fa fa-tag" style="color: #004E1A;"></span>
+    <a class="project-tags" href="/resume/project-tags.html#{{ t | slugify }}">
+      <span class="fa fa-tag" style="color: #004E1A; opacity: 0.6;"></span>
       &nbsp;
       <span class="tag-text">{{ t }}</span>
       &nbsp;
     </a>
   {% endfor %}
+</p>
 {% endif %}
 
-<hr>
-<h6>Related projects:</h6>
+<h6>Overview</h6>
+{% if page.overview-image %}
+<img src="/assets/Projects/{{page.overview-image}}" alt="overview-image" class="{{page.overview-image-styles}}">
+{% endif %}
+<p>{{page.overview}}</p>
 
-<div class="alert alert-danger">
-  <div class="">
-    <h6 class="alert-heading">To be completed: </h6>
-    <p class="">List of related projects to be completed in project.html layout.</p>
-  </div>
-</div>
+{% if page.description %}
+<h6>Descripton</h6>
+{% if page.description-image %}
+<img src="/assets/Projects/{{page.description-image}}" alt="description-image" class="{{page.description-image-styles}}">
+{% endif %}
+{% for p in page.description %}
+  <p>{{ p }}</p>
+{% endfor %}
+{% endif %}
+
+{% if page.challenges %}
+<h6>Challanges</h6>
+{% if page.description-image %}
+<img src="/assets/Projects/{{page.challenges-image}}" alt="challenges-image" class="{{page.challenges-image-styles}}">
+{% endif %}
+{% for p in page.challenges %}
+  <p>{{ p }}</p>
+{% endfor %}
+{% endif %}
+
+{% if page.challenges-list %}
+<ul>
+{% for p in page.challenges-list %}
+  <li>{{ p }}</li>
+{% endfor %}
+</ul>
+{% endif %}
+
+{% if page.challenges-post-list %}
+{% for p in page.challenges-post-list %}
+  <p>{{ p }}</p>
+{% endfor %}
+{% endif %}
+
+
+{% if page.accomplishments %}
+<h6>Accomplishments</h6>
+{% if page.description-image %}
+<img src="/assets/Projects/{{page.accomplishments-image}}" alt="accomplishments-image" class="{{page.accomplishments-image-styles}}">
+{% endif %}
+{% for p in page.accomplishments %}
+  <p>{{ p }}</p>
+{% endfor %}
+{% endif %}
+
+{% if page.accomplishments-list %}
+<ul>
+{% for p in page.accomplishments-list %}
+  <li>{{ p }}</li>
+{% endfor %}
+</ul>
+{% endif %}
+
+{% if page.accomplishments-post-list %}
+{% for p in page.accomplishments-post-list %}
+  <p>{{ p }}</p>
+{% endfor %}
+{% endif %}
+
+
+{% if page.custom-section-image %}
+<img src="/assets/Projects/{{page.custom-section-image}}" alt="custom-section-image" class="{{page.custom-section-image-styles}}">
+{% endif %}
+{{ content }}
+
+{% if page.related-projects %}
+<h6>Related projects</h6>
+<ul>
+  {% for p in page.related-projects %}
+  <li>
+    <a href="{{ site.baseurl }}{{ p }}">
+      {{ p }}
+    </a>
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}

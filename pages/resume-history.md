@@ -102,7 +102,7 @@ permalink: /resume/history.html
                             <img src="http://placehold.it/200x300/f00" />
                         </div>
                         <p>
-                            Veolia Water is a world leader in water and wastewater services and specialises in the management of these services on behalf of public authorities and industry.
+                            Veolia Water is a world leader in water and wastewater services and specializes in the management of these services on behalf of public authorities and industry.
                         </p>
                         <p>
                             Principle electrical engineer responsible for supporting over 70 water treatment sites across Australia and New Zealand.

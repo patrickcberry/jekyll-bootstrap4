@@ -30,26 +30,49 @@ permalink: /tasks.html
 ###### General
 - Consider changing colour (use a selection from the Google Material colour palate)
 - All references to #004E1A colour to be from stylesheet
-- Implement colour pallet
+- Implement color pallet
 
 ###### CV and Cover Letter Material Incorporated
 - Review and include CV
 - Review all content against updated CV for 2018
 - Review and include Cover Letter
 
+###### Resume - Project Content
+- Update Operational Data Management System
+- Update Smart Water Networks Pilot
+- Waste Tracking System
+
+###### Resume - Project Categories
+- Control Systems Integration
+- Engineering Management
+- Information Technology
+- Predictive Analytics
+- Pulp and Paper
+- Water Treatment
+
 ###### Resume Content
-- Capabilities - Create
+- Capabilities - Complete
+- Capabilities - Add tender management
+- Capabilities - Engineering Management - 2 x tenders
 - Achievements - Create
 - Specialties - Create
 - Key positions - Review & Fonts
 - Employment History - Verify number of Veolia sites
-- Employers - Create
-- Projects - Create
+- Employers - (is this required?)
+- Projects - Create all
 - Experience - Create
 - Skills - Create
-- Locations - Create
+- Locations - Complete
 - Clients - Create
 - Add a section for conferences (also to CV?)
+- Digital Engineering - JALINA, ELINA
+- Digital Transformation - ELINA
+
+###### Project Categories
+- Clients
+- Industries
+- Processes
+- Technologies
 
 ###### Resume Locations
 - Resize map height based on media queries
@@ -60,11 +83,8 @@ permalink: /tasks.html
 - Include a legend for different pin colours
 - Update page title
 
-###### Google Analytics
-- Add tracking to every page
-
 ###### Blog
-- Update theme colours
+- Hide / disable blog
 
 ###### Closeout and deploy
 - Post deployment tasks to GitHub issues
@@ -75,7 +95,7 @@ permalink: /tasks.html
 
 <div class="col-md-4">
 <div markdown="1">
-##### Post Deployment (Content)
+##### Post Deployment (Content + Features)
 
 ###### Resume - Interests
 - Add content
@@ -96,9 +116,26 @@ permalink: /tasks.html
 <div markdown="1">
 ##### Post Deployment (Improvements)
 
+###### Blog
+- Update theme colors
+- Update formatting to fit rest of site
+- Consistent naming of blog posts
+- Remove test content
+- Enable
+
+###### Google Analytics
+- Add tracking to every page
+
+###### Resume
+- Project Tags - Add a count
+- Project Tags - Improve formatting
+
 ###### Resume Formatting
 - Collapse sidebar on small devices
 - Timeline - accordion - only one open (need javascript as bootstrap is not loaded)
+
+###### Resume - Locations
+- Link from map to project page(s)
 
 ###### Home
 - Most recent blog posts listed

@@ -5,9 +5,9 @@ categories:
   - Information Technology
   - Predictive Analytics  
 project-tags:
+  - tag1
   - tag2
-  - tag3
-  - tag4
+  - tag4  
 resumeSectionId: ResumeProjects
 brief-description:
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod

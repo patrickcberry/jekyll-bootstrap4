@@ -1,4 +1,28 @@
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first | downcase }}|{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tag_words = site_tags | split:',' | sort %}
+
+{% capture project_tags %}
+  {% for page in site.projects %}
+    {% for project_tag in page.project-tags %}
+      {{project_tag|strip}}
+      {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+{% endcapture %}
+
+{% assign full_project_tags_array = project_tags | split:',' %}
+
+{% assign project_tags_array = full_project_tags_array[1] | strip %}
+
+{% for t in full_project_tags_array %}
+  {% unless project_tags_array contains t %}
+    {% capture project_tags_array %}{{project_tags_array}}|{{t|strip}}{% endcapture %}
+  {% endunless %}
+{% endfor %}
+
 {% if page.title == 'Resume Projects' %}
+
   <div class="container">
 
     <div class="row">
@@ -17,24 +41,27 @@
         {% endfor %}
         </ul>
 
-        <div class="alert alert-danger">
-          <div class="">
-            <h4 class="alert-heading">To be completed: </h4>
-            <p class="">Formatting to be updated.</p>
-          </div>
-        </div>
+        <h5>Tags:</h5>
+
+        {% assign tags = project_tags_array | split: '|' | uniq | sort %}
+        {% for t in tags %}
+          <a href="{{ site.baseurl }}project-tags#{{ t | slugify }}" class="btn btn-default btn-sm" role="button" style="color: #ffffff; background-color: #00695C; line-height: 1.0em; border-radius: 0.15em; border: 0; font-size: 0.7em; margin-right: -2px; margin-left: 0px;">{{ t | strip }}</a>
+        {% endfor %}
 
       </div>
 
       <div class="col-md-6">
-        <h5>Tags:</h5>
 
-        <div class="alert alert-danger">
-          <div class="">
-            <h4 class="alert-heading">To be completed: </h4>
-            <p class="">Tags list to be added.</p>
-          </div>
-        </div>
+        <h5>Projects:</h5>
+        <ul>
+          {% for p in site.projects %}
+            <li>
+              <a href="{{ site.baseurl }}{{ p.url }}">
+                {{ p.title }}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
 
       </div>
 
