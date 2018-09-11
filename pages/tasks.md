@@ -27,10 +27,9 @@ permalink: /tasks.html
 <div markdown="1">
 ##### Pre Deployment
 
-###### General
-- Consider changing colour (use a selection from the Google Material colour palate)
-- All references to #004E1A colour to be from stylesheet
-- Implement color pallet
+###### Defects
+- Footer covering page content on projects page
+- Empty tag being displayed on projects page
 
 ###### CV and Cover Letter Material Incorporated
 - Review and include CV
@@ -81,10 +80,6 @@ permalink: /tasks.html
 - Street view
 - Include all projects/locations
 - Include a legend for different pin colours
-- Update page title
-
-###### Blog
-- Hide / disable blog
 
 ###### Closeout and deploy
 - Post deployment tasks to GitHub issues

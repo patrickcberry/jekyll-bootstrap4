@@ -64,7 +64,7 @@ layout: resume_default
 <p>
   {% for t in page.project-tags %}
     <a class="project-tags" href="/resume/project-tags.html#{{ t | slugify }}">
-      <span class="fa fa-tag" style="color: #004E1A; opacity: 0.6;"></span>
+      <span class="fa fa-tag" style="color: #009688; opacity: 1;"></span>
       &nbsp;
       <span class="tag-text">{{ t }}</span>
       &nbsp;
@@ -73,86 +73,109 @@ layout: resume_default
 </p>
 {% endif %}
 
-<h6>Overview</h6>
-{% if page.overview-image %}
-<img src="/assets/Projects/{{page.overview-image}}" alt="overview-image" class="{{page.overview-image-styles}}">
-{% endif %}
-<p>{{page.overview}}</p>
+<div style="max-width: 1000px;">
+  <h6>Overview</h6>
+  {% if page.overview-image %}
+  <img src="/assets/Projects/{{page.overview-image}}" alt="overview-image" class="{{page.overview-image-styles}}">
+  {% endif %}
+  <p>{{page.overview}}</p>
 
-{% if page.description %}
-<h6>Descripton</h6>
-{% if page.description-image %}
-<img src="/assets/Projects/{{page.description-image}}" alt="description-image" class="{{page.description-image-styles}}">
-{% endif %}
-{% for p in page.description %}
-  <p>{{ p }}</p>
-{% endfor %}
-{% endif %}
-
-{% if page.challenges %}
-<h6>Challanges</h6>
-{% if page.description-image %}
-<img src="/assets/Projects/{{page.challenges-image}}" alt="challenges-image" class="{{page.challenges-image-styles}}">
-{% endif %}
-{% for p in page.challenges %}
-  <p>{{ p }}</p>
-{% endfor %}
-{% endif %}
-
-{% if page.challenges-list %}
-<ul>
-{% for p in page.challenges-list %}
-  <li>{{ p }}</li>
-{% endfor %}
-</ul>
-{% endif %}
-
-{% if page.challenges-post-list %}
-{% for p in page.challenges-post-list %}
-  <p>{{ p }}</p>
-{% endfor %}
-{% endif %}
-
-
-{% if page.accomplishments %}
-<h6>Accomplishments</h6>
-{% if page.description-image %}
-<img src="/assets/Projects/{{page.accomplishments-image}}" alt="accomplishments-image" class="{{page.accomplishments-image-styles}}">
-{% endif %}
-{% for p in page.accomplishments %}
-  <p>{{ p }}</p>
-{% endfor %}
-{% endif %}
-
-{% if page.accomplishments-list %}
-<ul>
-{% for p in page.accomplishments-list %}
-  <li>{{ p }}</li>
-{% endfor %}
-</ul>
-{% endif %}
-
-{% if page.accomplishments-post-list %}
-{% for p in page.accomplishments-post-list %}
-  <p>{{ p }}</p>
-{% endfor %}
-{% endif %}
-
-
-{% if page.custom-section-image %}
-<img src="/assets/Projects/{{page.custom-section-image}}" alt="custom-section-image" class="{{page.custom-section-image-styles}}">
-{% endif %}
-{{ content }}
-
-{% if page.related-projects %}
-<h6>Related projects</h6>
-<ul>
-  {% for p in page.related-projects %}
-  <li>
-    <a href="{{ site.baseurl }}{{ p }}">
-      {{ p }}
-    </a>
-  </li>
+  {% if page.role %}
+  <h6>Role</h6>
+  {% for p in page.role %}
+    <p>{{ p }}</p>
   {% endfor %}
-</ul>
-{% endif %}
+  {% endif %}
+
+  {% if page.description %}
+  <h6>Descripton</h6>
+  {% if page.description-image %}
+  <img src="/assets/Projects/{{page.description-image}}" alt="description-image" class="{{page.description-image-styles}}">
+  {% endif %}
+  {% for p in page.description %}
+    <p>{{ p }}</p>
+  {% endfor %}
+  {% endif %}
+
+  {% if page.description-list %}
+  <ul>
+  {% for p in page.description-list %}
+    <li>{{ p }}</li>
+  {% endfor %}
+  </ul>
+  {% endif %}
+
+  {% if page.description-post-list %}
+  {% for p in page.description-post-list %}
+    <p>{{ p }}</p>
+  {% endfor %}
+  {% endif %}
+
+  {% if page.challenges %}
+  <h6>Challanges</h6>
+  {% if page.description-image %}
+  <img src="/assets/Projects/{{page.challenges-image}}" alt="challenges-image" class="{{page.challenges-image-styles}}">
+  {% endif %}
+  {% for p in page.challenges %}
+    <p>{{ p }}</p>
+  {% endfor %}
+  {% endif %}
+
+  {% if page.challenges-list %}
+  <ul>
+  {% for p in page.challenges-list %}
+    <li>{{ p }}</li>
+  {% endfor %}
+  </ul>
+  {% endif %}
+
+  {% if page.challenges-post-list %}
+  {% for p in page.challenges-post-list %}
+    <p>{{ p }}</p>
+  {% endfor %}
+  {% endif %}
+
+
+  {% if page.accomplishments %}
+  <h6>Accomplishments</h6>
+  {% if page.description-image %}
+  <img src="/assets/Projects/{{page.accomplishments-image}}" alt="accomplishments-image" class="{{page.accomplishments-image-styles}}">
+  {% endif %}
+  {% for p in page.accomplishments %}
+    <p>{{ p }}</p>
+  {% endfor %}
+  {% endif %}
+
+  {% if page.accomplishments-list %}
+  <ul>
+  {% for p in page.accomplishments-list %}
+    <li>{{ p }}</li>
+  {% endfor %}
+  </ul>
+  {% endif %}
+
+  {% if page.accomplishments-post-list %}
+  {% for p in page.accomplishments-post-list %}
+    <p>{{ p }}</p>
+  {% endfor %}
+  {% endif %}
+
+
+  {% if page.custom-section-image %}
+  <img src="/assets/Projects/{{page.custom-section-image}}" alt="custom-section-image" class="{{page.custom-section-image-styles}}">
+  {% endif %}
+  {{ content }}
+
+  {% if page.related-projects %}
+  <h6>Related projects</h6>
+  <ul>
+    {% for p in page.related-projects %}
+    <li>
+      <a href="{{ site.baseurl }}{{ p }}">
+        {{ p }}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</div>

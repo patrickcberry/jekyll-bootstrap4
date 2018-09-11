@@ -12,7 +12,7 @@ permalink: /resume/project-tags.html
 <div class="col-md-12">            
 <div markdown="1">
 
-#### Tags
+### Tags
 
 <!-- List all Tags -->
 
@@ -40,12 +40,14 @@ permalink: /resume/project-tags.html
 
 <div class="tags-list">
   {% for tag in tags %}
-  <a href="#{{ tag | slugify }}" class="tag-link">
-    <span class="tag-name">{{ tag }}</span>
-    <!-- Count not available for porject tags
-    <span class="tag-count">{{ site.tags[tag] | size }}</span>
-    -->
-  </a>
+    {% unless tag == '' %}
+      <a href="#{{ tag | slugify }}" class="tag-link">
+        <span class="tag-name">{{ tag }}</span>
+        <!-- Count not available for porject tags
+        <span class="tag-count">{{ site.tags[tag] | size }}</span>
+        -->
+      </a>
+    {% endunless %}
   {% endfor %}
 </div>
 

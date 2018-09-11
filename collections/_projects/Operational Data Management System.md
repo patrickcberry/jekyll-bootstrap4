@@ -3,11 +3,10 @@ layout: project
 title: Operational Data Management System
 categories:
   - Information Technology
-  - Predictive Analytics
 project-tags:
-  - tag1
-  - tag2
-  - tag3
+  - OSIsoft PI
+  - Liferay
+  - Pentaho
 resumeSectionId: ResumeProjects
 brief-description:
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -23,6 +22,8 @@ description:
   - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod  
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
     quis nostrud.
+role:
+  -
 challanges:
   - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do  eiusmod  
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -38,7 +39,3 @@ accomplishments:
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
     quis nostrud.    
 ---
-###### Custom Section
-Additional section text ...
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.    
