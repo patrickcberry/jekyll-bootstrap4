@@ -23,7 +23,7 @@ client-logo:
 banner-image:
 overview-image:
 overview-image-styles:
-description-image:
+description-image: 
 description-image-styles:
 challenges-image:
 challenges-image-styles:

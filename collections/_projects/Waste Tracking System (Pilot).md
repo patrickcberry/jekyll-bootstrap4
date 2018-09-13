@@ -22,10 +22,10 @@ client-logo:
 banner-image:
 overview-image:
 overview-image-styles:
-description-image:
-description-image-styles:
-challenges-image:
-challenges-image-styles:
+description-image: WTS-1.PNG
+description-image-styles: project-image-float-right project-image-width-50
+challenges-image: WTS-2.PNG
+challenges-image-styles: project-image-float-right project-image-width-50
 accomplishments-image:
 accomplishments-image-styles:
 custom-section-image:
@@ -60,48 +60,17 @@ description-post-list:
   -
 
 challenges:
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do  eiusmod  
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud.
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod  
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud.
+  - There where several challenges on this project,
 challenges-list:    
-  - List item 1
-  - List item 2
-  - List item 3
+  - Short delivery time (8 weeks)
+  - Unfamiliar technologies
 challenges-post-list:    
-  - POST LIST - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do  eiusmod  
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud.
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod  
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud.
 
 accomplishments:
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do  eiusmod  
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud.
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod  
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud.
+  - Implemented a successful pilot (sufficient to gain funding for a production implementation).
 accomplishments-list:    
-  - List item 1
-  - List item 2
-  - List item 3
 accomplishments-post-list:    
-  - POST LIST - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do  eiusmod  
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud.
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod  
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud.    
 
 related-projects:
   - Operational Data Management System
-  - Smart Water Networks Pilot
 ---
-###### Custom Section
-Additional section text ...
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.    

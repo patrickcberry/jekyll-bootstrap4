@@ -37,7 +37,8 @@ pagination:
   enabled: true
   per_page: 5
   permalink: '/page/:num/'
-  title_suffix: ' - page :num'
+#  title_suffix: ' - page :num'   # title_suffix depreciated
+  title: ' - page :num'
   limit: 0
   sort_field: 'date'
   sort_reverse: true

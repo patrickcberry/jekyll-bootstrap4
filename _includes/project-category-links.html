@@ -45,7 +45,9 @@
 
         {% assign tags = project_tags_array | split: '|' | uniq | sort %}
         {% for t in tags %}
-          <a href="{{ site.baseurl }}project-tags#{{ t | slugify }}" class="btn btn-default btn-sm" role="button" style="color: #ffffff; background-color: #009688; line-height: 1.0em; border-radius: 0.15em; border: 0; font-size: 0.7em; margin-right: -2px; margin-left: 0px;">{{ t | strip }}</a>
+          {% unless t == '' %}
+            <a href="{{ site.baseurl }}project-tags#{{ t | slugify }}" class="btn btn-default btn-sm" role="button" style="color: #ffffff; background-color: #009688; line-height: 1.0em; border-radius: 0.15em; border: 0; font-size: 0.7em; margin-right: -2px; margin-left: 0px;">{{ t | strip }}</a>
+          {% endunless %} 
         {% endfor %}
 
       </div>
