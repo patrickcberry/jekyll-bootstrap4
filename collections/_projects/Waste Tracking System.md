@@ -12,6 +12,8 @@ project-tags:
   - RFID
   - Liferay
   - Pentaho
+  - Waste
+  - Incomplete
 resumeSectionId: ResumeProjects
 
 date-from: 2018
@@ -23,7 +25,7 @@ client-logo:
 banner-image:
 overview-image:
 overview-image-styles:
-description-image: 
+description-image:
 description-image-styles:
 challenges-image:
 challenges-image-styles:
@@ -84,7 +86,5 @@ accomplishments-post-list:
 
 related-projects:
   - Waste Tracking System (Pilot)
-  - Waste Tracking System (Pilot)  
-  - Waste Tracking System (Pilot)    
 
 ---

@@ -10,7 +10,7 @@
   marging-top: 0px;
   padding-top: 0px;
   margin-bottom: 0px;
-  margin-bottom: 30px;
+  //margin-bottom: 30px;
   //margin-bottom: $section-spacing;
   color: $gray-3;
   text-align: center;
@@ -49,7 +49,7 @@
 
 // Bottom -> margin-top;
 * + .pagination {
-  margin-top: $section-spacing;
+  //margin-top: $section-spacing;
 }
 
 // Push above header if newer on mobile

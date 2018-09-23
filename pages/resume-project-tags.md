@@ -72,6 +72,7 @@ permalink: /resume/project-tags.html
               -->
             </a>
           <!--</h5>-->
+          <small><i>{{ page.overview }}</i></small>
         </li>
       {% endif %}
     {% endfor %}

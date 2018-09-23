@@ -22,3 +22,4 @@ permalink: /resume/skills.html
 
 - Cybersecurity
 - Data Science (Big Data, Analytics, Machine Learning)
+- Asset Management

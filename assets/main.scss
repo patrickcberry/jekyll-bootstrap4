@@ -8,6 +8,18 @@
   //font-size: $custom-font-size;
 }
 
+.project-client-logo-image {
+  float:right;
+  padding: 5px;
+  min-height: 80px;
+  width: auto;
+  max-width: 200px
+}
+
+.project-client-logo-image-no-min-height {
+  min-height: 0 !important;
+}
+
 .project-banner-image {
 
 }
@@ -27,6 +39,10 @@
 
 .project-image-width-50 {
   width: 50%;
+}
+
+.project-image-width-40 {
+  width: 40%;
 }
 
 .project-image-width-25 {

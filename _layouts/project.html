@@ -6,7 +6,7 @@ layout: resume_default
 {% endif %}
 
 {% if page.client-logo %}
-<img src="/assets/Projects/{{page.client-logo}}" alt="client-logo" width="80px" style="float:right; padding: 5px;">
+<img src="/assets/Projects/{{page.client-logo}}" alt="client-logo" width="80px" class="project-client-logo-image {{page.client-logo-styles}}">
 {% endif %}
 
 <h4>{{page.title}}</h4>
@@ -73,7 +73,7 @@ layout: resume_default
 </p>
 {% endif %}
 
-<div style="max-width: 1000px;">
+<div style="max-width: 1100px;">
   <h6>Overview</h6>
   {% if page.overview-image %}
   <img src="/assets/Projects/{{page.overview-image}}" alt="overview-image" class="{{page.overview-image-styles}}">
@@ -113,7 +113,7 @@ layout: resume_default
 
   {% if page.challenges %}
   <h6>Challanges</h6>
-  {% if page.description-image %}
+  {% if page.challenges-image %}
   <img src="/assets/Projects/{{page.challenges-image}}" alt="challenges-image" class="{{page.challenges-image-styles}}">
   {% endif %}
   {% for p in page.challenges %}

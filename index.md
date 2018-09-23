@@ -5,7 +5,7 @@ carousel: true
 
 card1-image: /assets/about-me.jpg
 card1-title: About Page
-card1-text: About page describing the purpose of creating this site and some background information on the author.
+card1-text: Description of the purpose of this site and background info on the author.
 card1-update: May 2018
 card1-link: /about.html
 card1-link-text: See the new About page ...

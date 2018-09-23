@@ -15,7 +15,8 @@ project-tags:
   - Installation Supervision
   - Design
   - Instrumentation
-  - Controls
+  - Industrial Control Systems
+  - Incomplete
 resumeSectionId: ResumeProjects
 
 date-from: 2014

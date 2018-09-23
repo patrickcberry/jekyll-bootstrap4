@@ -106,5 +106,25 @@ permalink: /resume/capabilities.html
 - Postgraduate qualifications in both Management and Information Technology
 - Extensive experience in automation and control systems engineering in the process industries
 
+### Tender Management
+
+<div class="alert alert-warning">
+  <div class="">
+    <h6 class="alert-heading">To be completed: </h6>
+    <p class="">This section to be completed</p>
+  </div>
+</div>
+
+### Maintenance
+
+<div class="alert alert-warning">
+  <div class="">
+    <h6 class="alert-heading">To be completed: </h6>
+    <p class="">This section to be completed</p>
+  </div>
+</div>
+
+
+
 </div>
 </div>

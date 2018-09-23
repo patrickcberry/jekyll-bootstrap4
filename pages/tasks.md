@@ -27,51 +27,53 @@ permalink: /tasks.html
 <div markdown="1">
 ##### Pre Deployment
 
-###### Defects
-- Footer covering page content on projects page
-- Empty tag being displayed on projects page
-
 ###### CV and Cover Letter Material Incorporated
 - Review and include CV
 - Review all content against updated CV for 2018
 - Review and include Cover Letter
 
-###### Resume - Project Content
-- Update Operational Data Management System
-- Update Smart Water Networks Pilot
-- Waste Tracking System
+###### Pages
+- Contact
+- About
+
+###### Resume - Sections
+- Capabilities
+- Achievements
+- Specialties
+- Key Positions
+- Employment History
+- Projects
+- Skills
+- Locations
 
 ###### Resume - Project Categories
-- Control Systems Integration
-- Engineering Management
-- Information Technology
-- Predictive Analytics
-- Pulp and Paper
-- Water Treatment
+Progress, [1][2][3]
+1. Page created
+2. Description
+3. Linked projects
+
+- [X][-][-] Control Systems Integration
+- [X][-][-] Engineering Management
+- [X][-][-] Information Technology
+- [X][-][-] Predictive Analytics
+- [X][-][-] Pulp and Paper
+- [X][-][-] Water Treatment
+- [X][X][-] Tenders
+- [-][-][-] ECI
+- [-][-][-] Engineering Management
+- [-][-][-] Project Management
+- [X][X][-] Change Management
+- [-][-][-] Waste
+- [-][-][-] Maintenance
+- [-][-][-] Digital Engineering - JALINA, ELINA
+- [-][-][-] Digital Transformation - ELINA
+
+###### Resume - Project Content
+- Update Operational Data Management System
+- Waste Tracking System
 
 ###### Resume Content
-- Capabilities - Complete
-- Capabilities - Add tender management
-- Capabilities - Engineering Management - 2 x tenders
-- Achievements - Create
-- Specialties - Create
-- Key positions - Review & Fonts
 - Employment History - Verify number of Veolia sites
-- Employers - (is this required?)
-- Projects - Create all
-- Experience - Create
-- Skills - Create
-- Locations - Complete
-- Clients - Create
-- Add a section for conferences (also to CV?)
-- Digital Engineering - JALINA, ELINA
-- Digital Transformation - ELINA
-
-###### Project Categories
-- Clients
-- Industries
-- Processes
-- Technologies
 
 ###### Resume Locations
 - Resize map height based on media queries

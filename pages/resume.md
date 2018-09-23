@@ -7,13 +7,6 @@ permalink: /resume.html
 ---
 <div class="container">
 
-<div class="alert alert-danger">
-  <div class="">
-    <h4 class="alert-heading">Incomplete page: </h4>
-    <p class="">This page to be completed prior to deployment.</p>
-  </div>
-</div>
-
 <div class="row">
 
 <div class="col-md-6">            
@@ -27,7 +20,7 @@ Have worked in various industries including; Pulp and Paper, Water and Wastewate
 
 Am able to manage technical and commercial issues across multiple sites, contracts and clients.
 
-Currently working for a large environmental services business with in excess of 100 operational sites across Australia and New Zealand with significant electrical and controls assets installed.
+Currently working for a large environmental services business with in excess of 150 operational sites across Australia and New Zealand with significant electrical and controls assets installed.
 
 </div>
 </div>
@@ -41,11 +34,11 @@ Currently seeking challenging positions and/or assignments in the following area
 
 Am particularly interested in Digital Transformation, Big Data and Analytics and being part of an engineering team that implements these.
 
-##### Engineering Management
+##### Engineering Management:
 
 Engineering Management of maintenance and/or capital works with responsibility for multiple sites or a large or complex single site.
 
-##### Consulting
+##### Consulting:
 
 Short term consulting opportunities relating to,
 - Control systems project definition, review and audit
@@ -53,7 +46,7 @@ Short term consulting opportunities relating to,
 - Specifications, standards and procedures development and review
 - Software development
 
-##### Pro-bono
+##### Pro-bono:
 
 Pro-bono opportunities in the areas of automation, facilities management, electrical engineering, information technology and board positions.
 

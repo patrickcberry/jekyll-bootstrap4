@@ -7,6 +7,7 @@ project-tags:
   - OSIsoft PI
   - Liferay
   - Pentaho
+  - Incomplete
 resumeSectionId: ResumeProjects
 brief-description:
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod

@@ -11,6 +11,8 @@ project-tags:
   - Databases
   - HMI
   - RFID
+  - Waste
+  - Incomplete
 resumeSectionId: ResumeProjects
 
 date-from: 2017
