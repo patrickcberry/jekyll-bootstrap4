@@ -14,9 +14,9 @@ date-from: 20xx
 date-to: 20xx
 location: Sydney, Australia
 
-client-logo:
+client-logo: sydney-water-logo.png
 
-banner-image:
+banner-image: avon-banner.png
 overview-image:
 overview-image-styles:
 description-image:

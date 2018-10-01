@@ -5,7 +5,7 @@ title: Digital Engineering
 categories:
   -
 project-tags:
-  - Deign
+  - Design
   - Information Technology
   - Incomplete
 resumeSectionId: ResumeProjects
