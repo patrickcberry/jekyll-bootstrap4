@@ -5,21 +5,22 @@ title: Barangagoo AWTP
 categories:
   - Industrial Control Systems
 project-tags:
+  - Engineering Management
   - Project Management
   - PLC
   - SCADA
   - Nodejs
-  - Incomplete
   - Industrial Control Systems
+  - Water Treatment
 resumeSectionId: ResumeProjects
 
-date-from: 20xx
-date-to: 20xx
+date-from: 2015
+date-to: 2016
 location: Sydney, Australia
 
-client-logo:
+client-logo: ll-logo.png
 
-banner-image:
+banner-image: barangaroo-banner.png
 overview-image:
 overview-image-styles:
 description-image:
@@ -32,22 +33,31 @@ custom-section-image:
 custom-section-image-styles:
 
 overview:
+  - Control system implementation for Barangaroo Recycled Water Plant
 
 role:
   - Project Oversight, Application Developer (Nodejs)
 
 description:
-  - Partially complete plant from ... tbc ...
+  - Veolia has the O&M contract for the Barangaroo South Recycled Water Plant.
+  - The plant was to be constructed by others with Veolia to take over for the
+    O&M phase. Due to the financial collapse of the WTP subcontractor, Veolia
+    was delivered a partially designed and constructed plant and awarded a contract to,
 
 description-list:
+  - Develop a process control philosophy
+  - Implement the PLC and SCADA control system
+  - Commission the process
 
 description-post-list:
+  - Due to the tight delivery timeframe and poorly defined scope. Veolia implemented
+    this project using a mix of internal and external resources.
 
 challenges:
   -
 challenges-list:    
   - Incomplete design
-  - Delivery timeframe
+  - Tight delivery timeframe
   - Insufficient internal resources
 
 challenges-post-list:    

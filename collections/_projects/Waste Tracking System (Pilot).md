@@ -3,6 +3,7 @@ layout: project
 isProject: true
 title: Waste Tracking System (Pilot)
 categories:
+  - Digital Transformation
   - Information Technology
   - Resource Recovery
 project-tags:
@@ -12,14 +13,15 @@ project-tags:
   - HMI
   - RFID
   - Waste
-  - Incomplete
+  - Web Applications
 resumeSectionId: ResumeProjects
 
 date-from: 2017
 date-to: 2018
 location: Sydney, Australia
 
-client-logo:
+client-logo: veolia-logo.png
+client-logo-styles: project-client-logo-image-max-height
 
 banner-image:
 overview-image:
@@ -59,10 +61,9 @@ description-list:
   - Web application including production dashboard, compactor KPIs, waste diversions report
 
 description-post-list:
-  -
 
 challenges:
-  - There where several challenges on this project,
+  - There were several challenges on this project,
 challenges-list:    
   - Short delivery time (8 weeks)
   - Unfamiliar technologies
@@ -74,5 +75,6 @@ accomplishments-list:
 accomplishments-post-list:    
 
 related-projects:
+  - Waste Tracking System
   - Operational Data Management System
 ---

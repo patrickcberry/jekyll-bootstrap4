@@ -1,25 +1,25 @@
 ---
 layout: project
 isProject: true
-title: Avon Dam Asset Condition Assessment
+title: Subtransmission Planning
 categories:
-  - Asset Management
+  - Design
 project-tags:
-  - Condition Assessment
-  - Asset Management
+  - Design
   - High Voltage
-  - IncompleteX
+  - Power
 resumeSectionId: ResumeProjects
 
-date-from: 20xx
-date-to: 20xx
-location: Sydney, Australia
+date-from: 1992
+date-to: 1993
+location: Melbourne, Australia
 
-client-logo: sydney-water-logo.png
+client-logo: secv-logo.jpg
+client-logo-styles: project-client-logo-image-max-height
 
-banner-image: avon-banner.png
+banner-image:
 overview-image:
-overview-image-styles:
+overview-image-styles: project-image-float-right project-image-width-40
 description-image:
 description-image-styles:
 challenges-image:
@@ -30,14 +30,19 @@ custom-section-image:
 custom-section-image-styles:
 
 overview:
-  - Condition assessment of HV assets at Avon Dam for Sydney Water
+  - Various sub transmission planning activities
 
 role:
-  - Project Manager
+  - Engineer
 
 description:
+  - Various sub transmission (22 and 66 kV) planning activities;
 
 description-list:
+  - Load flow analysis
+  - Fault level studies
+  - Concept designs for system augmentation
+  - Load forecasting
 
 description-post-list:
 

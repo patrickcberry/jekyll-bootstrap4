@@ -3,15 +3,20 @@ layout: project
 isProject: true
 title: Digital Engineering
 categories:
-  -
+  - Digital Engineering
+  - Digital Transformation
+  - Information Technology
 project-tags:
   - Design
+  - Digital Engineering
+  - Databases
+  - Web Applications
+  - Java
   - Information Technology
-  - Incomplete
 resumeSectionId: ResumeProjects
 
-date-from: 20xx
-date-to: 20xx
+date-from: 1993
+date-to: 2004
 location: Helsinki, Finland; Sydney, Australia
 
 client-logo: poyry-logo.png
@@ -29,30 +34,35 @@ accomplishments-image-styles:
 custom-section-image:
 custom-section-image-styles:
 
-overview:
+overview: Software Developer, Application Architect and End User of various Digital Engineering Tools
 role:
   - Software Developer, Application Architect, End User
 
 description:
-  - ... various projects ... developer
-  - ... various project as end user
+  - Joined Jaakko Poyry (now Poyry) in 1993 who had already been using internally developed Digital Engineering systems for over a decade which included;
 
 description-list:
-  - ProElina ...
-  - ProJalina ...
-  - WebPub ...
+  - Smart P&IDs
+  - Database driven design
+  - Automatic generation of electrical and instrumentation drawings
+  - Semi-automatic generation of control system software
+  - Web publishing of project documentation
 
 description-post-list:
+  - During my time at Jaakko Poyry I was involved with Digital Engineering tools
+    in various capacities, include end user and developer.
 
 challenges:
-  - Developing in early 2000
+  - Were developing web application in early 2000 so the challenges included,
 challenges-list:    
-  - Ahead of time ... hard sell
-  - Limit technology and hardware support
+  - Limited technology and hardware support
+  - The idea of Digital Engineering was ahead of its time and quite hard to sell
+  - Limited internal resources to develop and support systems
 challenges-post-list:    
 
 accomplishments:
-  - ... Jalina ...
+  - Development of a web based tool to document process functional descriptions
+
 accomplishments-list:    
 accomplishments-post-list:    
 

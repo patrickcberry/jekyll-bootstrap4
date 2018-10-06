@@ -6,16 +6,17 @@ categories:
   - Asset Management
   - Project Management
 project-tags:
-  - Project Management
   - Asset Management
-  - Incomplete
+  - CMMS
+  - Project Management  
+  - IncompleteX
 resumeSectionId: ResumeProjects
 
 date-from: 20xx
 date-to: 20xx
 location: Sydney, Australia
 
-client-logo:
+client-logo: sydney-water-logo.png
 
 banner-image:
 overview-image:
@@ -30,22 +31,35 @@ custom-section-image:
 custom-section-image-styles:
 
 overview:
-  - Implementation of Maximo 7 CMMS for the Sydney Desalination Plant
+  - Implementation of a Maximo 7 CMMS for the Sydney Desalination Plant (SDP) at Kurnell.
 
 role:
   - Project Manager
 
 description:
+  - As part of Veolia's operations establishment for the operations and
+    maintenance of the Sydney Desalination Plant, a CMMS system was required
+    to be implemented.
 
 description-list:
 
 description-post-list:
 
 challenges:
+  - The major challenges on this project were,
 challenges-list:    
+  - Implementation time frame - limited time was available to complete this
+    politically sensitive project
+  - Limited budget - The SDP project budgets were created when Maximo was owned
+    by MRO. At the time of implementation IBM had purchased MRO and
+    licensing cost had increased dramatically
 challenges-post-list:    
 
 accomplishments:
+  - Completed project to budget and schedule.
+  - Maintained tight control of the project by limiting work done to
+    configuration of the product only and excluding any product modifications or
+    extensions.
 accomplishments-list:    
 accomplishments-post-list:    
 

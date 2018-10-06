@@ -20,6 +20,11 @@
   min-height: 0 !important;
 }
 
+.project-client-logo-image-max-height {
+  max-height: 140px !important;
+}
+
+
 .project-banner-image {
 
 }
@@ -37,12 +42,20 @@
   margin-right: 10px;
 }
 
+.project-image-width-60 {
+  width: 60%;
+}
+
 .project-image-width-50 {
   width: 50%;
 }
 
 .project-image-width-40 {
   width: 40%;
+}
+
+.project-image-width-30 {
+  width: 30%;
 }
 
 .project-image-width-25 {

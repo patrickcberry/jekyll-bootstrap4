@@ -7,7 +7,7 @@ categories:
   - Water Treatment
 project-tags:
   - UPM-Kymmene
-  - Board Machines
+  - Paper & Board Machines
   - Power Island
   - Paper
   - DCS
@@ -16,86 +16,55 @@ project-tags:
   - Design
   - Instrumentation
   - Industrial Control Systems
-  - Incomplete
+  - Shutdowns
+  - Water Treatment
 resumeSectionId: ResumeProjects
 
-date-from: 2014
-date-to: ongoing
+date-from: 1998
+date-to: 1999
 location: Rouen, France
 
 client-logo: UPM_logo.png
+client-logo-styles: project-client-logo-image-max-height
 
 banner-image: upm-france-chapelle-banner.jpg
-overview-image: upm-france-chapelle.jpg
-overview-image-styles: project-image-float-right project-image-width-25
-description-image: upm-france-chapelle-PM6.png
-description-image-styles: project-image-float-right project-image-width-25
-challenges-image: upm-france-chapelle-PM6.png
-challenges-image-styles: project-image-float-right project-image-width-25
-accomplishments-image: upm-france-chapelle-PM6.png
-accomplishments-image-styles: project-image-float-right project-image-width-50
-custom-section-image: upm-france-chapelle-PM6.png
-custom-section-image-styles: project-image-float-right project-image-width-50
+overview-image: upm-france-chapelle-PM6.png
+overview-image-styles: project-image-float-right project-image-width-50
+description-image:
+description-image-styles:
+challenges-image:
+challenges-image-styles:
+accomplishments-image:
+accomplishments-image-styles:
+custom-section-image:
+custom-section-image-styles:
 
 overview:
-  BRIEF DESCRIPTION ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud.
-
+  - Rebuild of PM3, PM6, Effluent Treatment, Power Plant, DIP 1 & 2
 description:
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do  eiusmod  
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud.
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod  
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud.
+  - Process Control area engineer responsible for the rebuild of the following mill departments;
+
+description-list:
+  - PM3
+  - PM6
+  - Effluent Treatment
+  - Power Plant
+  - DIP 1 & 2
+
+description-post-list:
+  - Commissioning support and start-up services where included in this project requiring seven weeks on site including a 14 day shut down for PM6 and 10 day shut down for PM3.
 
 role:
   - Instrumentation and Process Control Area Engineer (PM3, PM6, Water Treatment, Power Plant)
 
 challenges:
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do  eiusmod  
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud.
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod  
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud.
 challenges-list:    
-  - List item 1
-  - List item 2
-  - List item 3
 challenges-post-list:    
-  - POST LIST - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do  eiusmod  
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud.
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod  
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud.
 
 accomplishments:
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do  eiusmod  
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud.
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod  
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud.
+  - Both PM shutdowns completed to schedule.
 accomplishments-list:    
-  - List item 1
-  - List item 2
-  - List item 3
 accomplishments-post-list:    
-  - POST LIST - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do  eiusmod  
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud.
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod  
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud.    
 
 related-projects:
-  - Operational Data Management System
-  - Smart Water Networks Pilot
 ---
-###### Custom Section
-Additional section text ...
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.    

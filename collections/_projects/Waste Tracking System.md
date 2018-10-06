@@ -3,8 +3,9 @@ layout: project
 isProject: true
 title: Waste Tracking System
 categories:
-  - Information Technology
-  - Resource Recovery
+- Digital Transformation
+- Information Technology
+- Resource Recovery
 project-tags:
   - Angular
   - Databases
@@ -13,14 +14,15 @@ project-tags:
   - Liferay
   - Pentaho
   - Waste
-  - Incomplete
+  - Web Applications
 resumeSectionId: ResumeProjects
 
 date-from: 2018
 date-to: ongoing
 location: Sydney, Australia
 
-client-logo:
+client-logo: veolia-logo.png
+client-logo-styles: project-client-logo-image-max-height
 
 banner-image:
 overview-image:
@@ -86,5 +88,6 @@ accomplishments-post-list:
 
 related-projects:
   - Waste Tracking System (Pilot)
+  - Integrated Operations and Remote Monitoring Platform
 
 ---

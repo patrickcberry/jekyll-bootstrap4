@@ -18,8 +18,8 @@ location: Sydney, Australia
 client-logo: dod-logo.png
 
 banner-image:
-overview-image:
-overview-image-styles:
+overview-image: dod.jpg
+overview-image-styles: project-image-float-right project-image-width-30
 description-image:
 description-image-styles:
 challenges-image:
@@ -47,7 +47,10 @@ description-list:
 description-post-list:
 
 challenges:
+  - This project had several challenges including,
 challenges-list:    
+  - Project sponsor that also delivered significant portions of the project
+  - Business unit not familiar with disciplined project delivery methodologies
 challenges-post-list:    
 
 accomplishments:

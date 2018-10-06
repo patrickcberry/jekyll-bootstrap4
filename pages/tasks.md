@@ -71,6 +71,7 @@ Progress, [1][2][3]
 ###### Resume - Project Content
 - Update Operational Data Management System
 - Waste Tracking System
+- Update related projects for all
 
 ###### Resume Content
 - Employment History - Verify number of Veolia sites

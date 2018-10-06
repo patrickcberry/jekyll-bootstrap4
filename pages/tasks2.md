@@ -25,16 +25,27 @@ permalink: /tasks2.html
 
 <div class="col-md-12">            
 <div markdown="1">
+
+##### IncompleteX
+- Avon Dam HV Condition Assessment - Locate report
+- Avon Dam HV Condition Assessment - Complete
+- SDP Maximo - Confirm dates
+- ODMS - confirm start date
+- ODMS - higher quality screen image
+- ODMS - higher quality report image
+- QGC - Post Treatment Dosing - Confirm date
+- QGC - Post Treatment Dosing - Images from emails
+- Woodlawn Bioreactor SCADA - Dates
+
 ##### Resume Content - Projects
 
 | Page | Text | Imag | Tags | Cat  | Loc | Description                              |
 |------|------|------|------|------|-----|------------------------------------------|
-|      |      |      |      |      |     | QGC - Post Treatment Dosing ECI          |
-|      |      |      |      |      |     | DOD Waste Collection Contract Est
+|   X  |  X   |      |  X   |  X   |  X  | QGC - Post Treatment Dosing ECI          |
+|   X  |  X   |  X   |  X   |  X   |  -  | DOD Waste Collection Contract Est
 |      |      |      |      |      |     | Woodlawn Bioreactor SCADA
-|      |      |      |      |      |     | Waste Tracking System
 |      |      |      |      |      |     | Barangaroo DCP
-|      |      |      |      |      |     | Barangaroo AWTP
+|  X   |  X   |  X   |  X   |  X   |  X  | Barangaroo AWTP
 |      |      |      |      |      |     | ERA Ranger Load Shedding
 |      |      |      |      |      |     | Murray to Broken Hill Pipeline
 |      |      |      |      |      |     | Cybersecurity - Upgrade
@@ -44,7 +55,7 @@ permalink: /tasks2.html
 |      |      |      |      |      |     | QGC
 |      |      |      |      |      |     | Basswater
 |      |      |      |      |      |     | addWater
-|      |      |      |      |      |     | Maximo 7
+|  X   |  X   |  X   |  X   |  X   |  X  | Maximo 7
 |      |      |      |      |      |     | Fairfield AWTP
 |      |      |      |      |      |     | Altona RWTP
 |      |      |      |      |      |     | Wyuna PLC Upgrade
@@ -67,8 +78,8 @@ permalink: /tasks2.html
 |      |      |      |      |      |     | Norske Skog A1-265
 |      |      |      |      |      |     | Norske Skog Controls
 |      |      |      |      |      |     | Sopercel
-|      |      |      |      |      |     | Poyry Engineering Tools
-|      |      |      |      |      |     | Chapelle Dapblay
+|  X   |  X   |  X   |  X   |  X   |  X  | Poyry Engineering Tools (Digital Engineering)
+|  X   |  X   |  X   |  X   |  X   |  X  | Chapelle Dapblay
 |      |      |      |      |      |     | Burgo
 |      |      |      |      |      |     | Soporcel
 |      |      |      |      |      |     | Chapelle Dapblay - Services
@@ -79,11 +90,11 @@ permalink: /tasks2.html
 |      |      |      |      |      |     | Mondi Merbank - Coating Kitchen
 |      |      |      |      |      |     | Mondi Piet Retief
 |      |      |      |      |      |     | Mondi RB Optimisation
-|      |      |      |      |      |     | Naning
-|      |      |      |      |      |     | ANM Albury RCF
-|      |      |      |      |      |     | SECV - Load flow and fault studies
-|      |      |      |      |      |     | Waste Tracking System
-|      |      |      |      |      |     | Operational Data Management System
+|      |      |      |      |      |     | Nanning
+|  X   |  X   |  X   |  X   |  X   |  X  | ANM Albury RCF
+|  X   |  X   |  X   |  X   |  X   |  X  | SECV - Load flow and fault studies
+|  X   |  X   |  X   |  X   |  X   |  X  | Waste Tracking System
+|  X   |  X   |  X   |  X   |  X   |  X  | Operational Data Management System
 |      |      |      |      |      |     | Horsley Park
 
 </div>
