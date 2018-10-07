@@ -1,7 +1,7 @@
 ---
 layout: project
 isProject: true
-title: Chapelle Darplay
+title: UPM Kymmene - Chapelle Darplay
 categories:
   - Pulp and Paper
   - Water Treatment

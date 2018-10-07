@@ -87,7 +87,7 @@ permalink: /tasks2.html
 |      |      |      |      |      |     | Stora
 |      |      |      |      |      |     | RB - Hot Stock Refining
 |      |      |      |      |      |     | Mondi Merbank - Alakine Sizing
-|      |      |      |      |      |     | Mondi Merbank - Coating Kitchen
+|  X   |  X   |  X   |  X   |  X   |  X  | Mondi Merbank - Coating Kitchen
 |      |      |      |      |      |     | Mondi Piet Retief
 |      |      |      |      |      |     | Mondi RB Optimisation
 |      |      |      |      |      |     | Nanning
