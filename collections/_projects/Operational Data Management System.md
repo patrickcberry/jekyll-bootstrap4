@@ -11,7 +11,7 @@ project-tags:
   - Pentaho
   - Excel VBA
   - Analytics
-  - IncompleteX
+  - Incomplete-VANZ
 resumeSectionId: ResumeProjects
 
 date-from: 2014

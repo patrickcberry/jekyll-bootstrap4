@@ -3,7 +3,7 @@ layout: project
 isProject: true
 title: IWN Big Data and Analytics Program
 categories:
-  -
+  - Digital Transformation
 project-tags:
   - Big Data
   - Analytics

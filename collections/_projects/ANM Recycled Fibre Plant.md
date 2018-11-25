@@ -1,7 +1,7 @@
 ---
 layout: project
 isProject: true
-title: ANM - Recycled Fibre Plant
+title: ANM Recycled Fibre Plant
 categories:
   - Pulp and Paper
 project-tags:

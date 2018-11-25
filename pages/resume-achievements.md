@@ -19,8 +19,12 @@ permalink: /resume/achievements.html
 <div class="col-md-6">            
 <div markdown="1">
 
-### Team Management
+- OT and Industrial Cybersecurity
+- SCADA Library
+- Service agreements
+- ODMS project
 
+### Team Management
 #### Veolia
 - Built team from zero to five
 - Implemented Internship Program

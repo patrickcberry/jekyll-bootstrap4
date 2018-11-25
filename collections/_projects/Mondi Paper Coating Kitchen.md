@@ -1,7 +1,7 @@
 ---
 layout: project
 isProject: true
-title: Mondi Paper - Coating Kitchen
+title: Mondi Paper Coating Kitchen
 categories:
   - Pulp and Paper
 project-tags:

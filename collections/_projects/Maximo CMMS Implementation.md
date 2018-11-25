@@ -9,7 +9,7 @@ project-tags:
   - Asset Management
   - CMMS
   - Project Management  
-  - IncompleteX
+  - Incomplete-VWA
 resumeSectionId: ResumeProjects
 
 date-from: 20xx

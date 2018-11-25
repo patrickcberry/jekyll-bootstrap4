@@ -6,11 +6,11 @@ permalink: /about.html
 carousel: true
 ---
 
-This is the personal website of Patrick Berry. 
+This is the personal website of Patrick Berry.
 
 Father of three school aged children and step father to one independent young adult.
 
-l am a Professional Engineer with 25 years of experience across a number of industries.
+l am a Professional Engineer with over 25 years of experience across a number of industries.
 
 l currently live, in Sydney Australia but have previously lived permanently in Melbourne (Australia), Helsinki (Finland), Durban (Republic of South Africa) and Albury (Australia).
 

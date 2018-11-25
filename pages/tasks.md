@@ -41,7 +41,6 @@ permalink: /tasks.html
 - Achievements
 - Specialties
 - Key Positions
-- Employment History
 - Projects
 - Skills
 - Locations
@@ -61,7 +60,7 @@ Progress, [1][2][3]
 - [X][X][-] Tenders
 - [-][-][-] ECI
 - [-][-][-] Engineering Management
-- [-][-][-] Project Management
+- [X][X][-] Project Management
 - [X][X][-] Change Management
 - [-][-][-] Waste
 - [-][-][-] Maintenance
@@ -72,9 +71,6 @@ Progress, [1][2][3]
 - Update Operational Data Management System
 - Waste Tracking System
 - Update related projects for all
-
-###### Resume Content
-- Employment History - Verify number of Veolia sites
 
 ###### Resume Locations
 - Resize map height based on media queries
@@ -127,6 +123,11 @@ Progress, [1][2][3]
 ###### Resume
 - Project Tags - Add a count
 - Project Tags - Improve formatting
+- Browse projects in chronological order
+- Filter projects by decade 1990, 2000, 2010
+- Download PDF link
+- Add employer to each project description
+- Links to navigate to next and previous projects
 
 ###### Resume Formatting
 - Collapse sidebar on small devices
@@ -140,9 +141,6 @@ Progress, [1][2][3]
 
 ###### About
 - Add made with Jekyll, Bootstrap etc. (above footer)
-
-###### Resume
-- Download PDF link
 
 ###### Blog
 - Hide sidebar sections headers if no items present

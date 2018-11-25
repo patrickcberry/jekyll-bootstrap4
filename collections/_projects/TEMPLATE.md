@@ -1,14 +1,12 @@
 ---
 layout: project
 isProject: true
-title: DOD Waste Management Contract Establishment
+title: Project Template
 categories:
-  - Change Management
+  - Engineering
   - Project Management
 project-tags:
-  - Change Management
-  - Project Management
-  - Waste
+  - Incomplete-VWA
 resumeSectionId: ResumeProjects
 
 date-from: 2014
@@ -19,13 +17,13 @@ client-logo: dod-logo.png
 
 banner-image:
 overview-image: dod.jpg
-overview-image-styles: project-image-float-right project-image-width-40
+overview-image-styles: project-image-float-right project-image-width-30
 description-image:
 description-image-styles:
-challenges-image:
-challenges-image-styles:
+challenges-image: odms-rpt.png
+challenges-image-styles: project-image-float-right project-image-width-40
 accomplishments-image:
-accomplishments-image-styles:
+accomplishments-image-styles: project-image-float-right project-image-width-40
 custom-section-image:
 custom-section-image-styles:
 
@@ -58,5 +56,7 @@ accomplishments-list:
 accomplishments-post-list:    
 
 related-projects:
+- Operational Data Management System
+- Waste Tracking System
 
 ---

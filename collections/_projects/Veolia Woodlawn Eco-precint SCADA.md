@@ -1,36 +1,34 @@
 ---
 layout: project
 isProject: true
-title: DOD Waste Management Contract Establishment
+title: Veolia Woodlawn Eco-precinct SCADA
 categories:
-  - Change Management
+  - Control Systems Integration
   - Project Management
 project-tags:
-  - Change Management
-  - Project Management
-  - Waste
+  - Incomplete-VANZ
 resumeSectionId: ResumeProjects
 
-date-from: 2014
-date-to: 2014
-location: Sydney, Australia
+date-from: 20xx
+date-to: 20xx
+location: Tarago, Australia
 
-client-logo: dod-logo.png
+client-logo: veolia-logo.png
 
 banner-image:
-overview-image: dod.jpg
-overview-image-styles: project-image-float-right project-image-width-40
+overview-image:
+overview-image-styles: project-image-float-right project-image-width-30
 description-image:
 description-image-styles:
 challenges-image:
-challenges-image-styles:
+challenges-image-styles: project-image-float-right project-image-width-40
 accomplishments-image:
-accomplishments-image-styles:
+accomplishments-image-styles: project-image-float-right project-image-width-40
 custom-section-image:
 custom-section-image-styles:
 
 overview:
-  - Mobilization for a six year agreement to provide waste management services to the Australian Department of Defence.
+  - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 role:
   - Project Manager, Contract negotiation team member
@@ -58,5 +56,7 @@ accomplishments-list:
 accomplishments-post-list:    
 
 related-projects:
+- Operational Data Management System
+- Waste Tracking System
 
 ---

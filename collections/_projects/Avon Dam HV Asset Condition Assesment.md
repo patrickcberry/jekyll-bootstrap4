@@ -1,14 +1,14 @@
 ---
 layout: project
 isProject: true
-title: Avon Dam Asset Condition Assessment
+title: Avon Dam HV Asset Condition Assessment
 categories:
   - Asset Management
 project-tags:
   - Condition Assessment
   - Asset Management
   - High Voltage
-  - IncompleteX
+  - Incomplete-VWA
 resumeSectionId: ResumeProjects
 
 date-from: 20xx

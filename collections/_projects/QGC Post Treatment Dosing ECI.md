@@ -1,7 +1,7 @@
 ---
 layout: project
 isProject: true
-title: QGC - Post Treatment Dosing ECI
+title: QGC Post Treatment Dosing ECI
 categories:
   - Engineering Management
   - Project Management
@@ -11,7 +11,7 @@ project-tags:
   - Design Management
   - Tender
   - Water Treatment
-  - IncompleteX
+  - Incomplete-VWA
 resumeSectionId: ResumeProjects
 
 date-from: 20xx
@@ -21,7 +21,7 @@ location: Wandoan, Australia
 client-logo: qgc-logo.png
 
 banner-image:
-overview-image: 
+overview-image:
 overview-image-styles: project-image-float-right project-image-width-40
 description-image:
 description-image-styles:
