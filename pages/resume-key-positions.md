@@ -20,6 +20,11 @@ permalink: /resume/keypositions.html
 <div class="col-md-6">            
 <div markdown="1">
 
+### Engineering Manager
+
+- Nowra
+- MBHP
+
 ### Electrical Engineering Management
 
 The organizations in which I have held an Electrical Engineering Manager position are Veolia Water and Veolia Australia and New Zealand.
