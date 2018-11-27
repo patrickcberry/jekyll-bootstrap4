@@ -19,14 +19,77 @@ categories:
   - Waste
   - Water Treatment
 project-tags:
-  - Design
-  - Instrumentation
+  - 199x
+  - 200x
+  - 201x
+  - Analytics
+  - Angular
+  - AngularJS
+  - Asset Management
+  - Australia
+  - Boilers
+  - Change Management
+  - CMMS
   - Commissioning
+  - Condition Assessment
+  - Consulting
+  - Control Systems Integration
+  - Databases
   - DCS
-  - Industrial Control Systems
-  - Installation Supervision
-  - Paper
+  - Design Management
+  - Digital Engineering
+  - Digital Transformation
+  - District Heating and Cooling
+  - ECI (Early Contractor Involvement)
+  - Engineer Design
+  - Engineering Management
+  - Excel VBA
+  - FAT
+  - France
+  - High Voltage
+  - HMI
+  - Honeywell Alcont
   - Honeywell TDC3000
+  - HTML
+  - Industrial Control Systems
+  - Information Technology
+  - Installation Supervision
+  - Instrumentation
+  - Java
+  - Lend Lease
+  - Liferay
+  - Load Shedding
+  - Maintenance
+  - Metso DNA
+  - Mondi Paper
+  - Nodejs
+  - Norske Skog
+  - Operations Establishment
+  - OSIsoft PI
+  - Paper
+  - Paper & Board Machines
+  - Pentaho Power
+  - PLC
+  - Power Generation
+  - Power Systems
+  - Predictive Analytics
+  - Procurement
+  - Project Management
+  - Pulp and Paper
+  - Recycled Fibre (RCF)
+  - Requirements Definition
+  - RFID
+  - SCADA
+  - Shutdowns
+  - Sydney Water
+  - Tenders
+  - UPM-Kymmene
+  - URS, FDS
+  - Veolia
+  - Waste
+  - Water
+  - Water Treatment
+  - Web Applications
 resumeSectionId: ResumeProjects
 
 date-from: 1993
