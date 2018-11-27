@@ -4,15 +4,28 @@ isProject: true
 title: Avon Dam HV Asset Condition Assessment
 categories:
   - Asset Management
+  - Change Management
+  - Control Systems Integration
+  - Digital Engineer
+  - Digital Transformation
+  - ECI (Early Contractor Involvement)
+  - Engineering Management
+  - Information Technology
+  - Maintenance
+  - Predictive Analytics
+  - Project Management
+  - Pulp and Paper
+  - Tenders
+  - Waste
+  - Water Treatment
 project-tags:
   - Condition Assessment
   - Asset Management
   - High Voltage
-  - Incomplete-VWA
 resumeSectionId: ResumeProjects
 
-date-from: 20xx
-date-to: 20xx
+date-from: 2012
+date-to: 2015
 location: Sydney, Australia
 
 client-logo: sydney-water-logo.png
@@ -30,15 +43,19 @@ custom-section-image:
 custom-section-image-styles:
 
 overview:
-  - Condition assessment of HV assets at Avon Dam for Sydney Water
+  - HV asset condition assessment, SOW preparation and technical support to upgrade project.
 
 role:
-  - Project Manager
+  - Project Engineer
 
 description:
-
+  - Veolia manage a 33kV substation and feeder of approximately 11 km at Avon Dam on behalf of Sydney Water. This substation was built over 50 years ago and the assets are approaching end of life and the switchyard didn't comply with modern safety standards relating to exposed busbars.
+  - This project involved,
 description-list:
-
+  - Conducting a condition assessment and making recommendations for remedial works
+  - Preparing a SOW and RFQ package
+  - Tender evaluation
+  - Technical support to project manager
 description-post-list:
 
 challenges:

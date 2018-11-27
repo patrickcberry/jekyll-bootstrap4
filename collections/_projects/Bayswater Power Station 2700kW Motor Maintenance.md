@@ -3,15 +3,28 @@ layout: project
 isProject: true
 title: Bayswater Power Station 2700kW Motor Maintenance
 categories:
+  - Asset Management
+  - Change Management
+  - Control Systems Integration
+  - Digital Engineer
+  - Digital Transformation
+  - ECI (Early Contractor Involvement)
+  - Engineering Management
+  - Information Technology
   - Maintenance
+  - Predictive Analytics
+  - Project Management
+  - Pulp and Paper
+  - Tenders
+  - Waste
+  - Water Treatment
 project-tags:
   - High Voltage
   - Maintenance
-  - Incomplete-VWA
 resumeSectionId: ResumeProjects
 
-date-from: 20xx
-date-to: 20xx
+date-from: 2009
+date-to: 2009
 location: Liddell, Australia
 
 client-logo:

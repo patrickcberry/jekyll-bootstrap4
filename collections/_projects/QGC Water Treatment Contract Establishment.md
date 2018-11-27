@@ -3,13 +3,27 @@ layout: project
 isProject: true
 title: QGC Water Treatment Contract Establishment
 categories:
+  - Asset Management
+  - Change Management
+  - Control Systems Integration
+  - Digital Engineer
+  - Digital Transformation
+  - ECI (Early Contractor Involvement)
+  - Engineering Management
+  - Information Technology
+  - Maintenance
+  - Predictive Analytics
+  - Project Management
+  - Pulp and Paper
+  - Tenders
+  - Waste
+  - Water Treatment
 project-tags:
   - Water Treatment
-  - Incomplete-VWA
 resumeSectionId: ResumeProjects
 
-date-from: 20xx
-date-to: 20xx
+date-from: 2012
+date-to: 2013
 location: Chinchilla, Australia
 
 client-logo: qgc-logo.png

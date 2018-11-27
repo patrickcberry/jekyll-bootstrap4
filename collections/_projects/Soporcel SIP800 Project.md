@@ -3,7 +3,21 @@ layout: project
 isProject: true
 title: Soporcel SIP800 Project
 categories:
+  - Asset Management
+  - Change Management
+  - Control Systems Integration
+  - Digital Engineer
+  - Digital Transformation
+  - ECI (Early Contractor Involvement)
+  - Engineering Management
+  - Information Technology
+  - Maintenance
+  - Predictive Analytics
+  - Project Management
   - Pulp and Paper
+  - Tenders
+  - Waste
+  - Water Treatment
 project-tags:
   - Paper
   - DCS

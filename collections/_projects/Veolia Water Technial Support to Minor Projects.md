@@ -3,13 +3,27 @@ layout: project
 isProject: true
 title: Veolia Water Technical Support to Minor Projects
 categories:
-  - Engineering
+  - Asset Management
+  - Change Management
+  - Control Systems Integration
+  - Digital Engineer
+  - Digital Transformation
+  - ECI (Early Contractor Involvement)
+  - Engineering Management
+  - Information Technology
+  - Maintenance
+  - Predictive Analytics
+  - Project Management
+  - Pulp and Paper
+  - Tenders
+  - Waste
+  - Water Treatment
 project-tags:
-  - Incomplete-VWA
+  - Engineering
 resumeSectionId: ResumeProjects
 
-date-from: 20xx
-date-to: 20xx
+date-from: 2008
+date-to: 2014
 location: Australia
 
 client-logo: veolia-logo.png
@@ -19,7 +33,7 @@ overview-image:
 overview-image-styles: project-image-float-right project-image-width-30
 description-image:
 description-image-styles:
-challenges-image: 
+challenges-image:
 challenges-image-styles: project-image-float-right project-image-width-40
 accomplishments-image:
 accomplishments-image-styles: project-image-float-right project-image-width-40

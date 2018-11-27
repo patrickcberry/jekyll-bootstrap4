@@ -3,8 +3,21 @@ layout: project
 isProject: true
 title: GVW Electrical Asset Management Consulting
 categories:
-  - Engineering Management
   - Asset Management
+  - Change Management
+  - Control Systems Integration
+  - Digital Engineer
+  - Digital Transformation
+  - ECI (Early Contractor Involvement)
+  - Engineering Management
+  - Information Technology
+  - Maintenance
+  - Predictive Analytics
+  - Project Management
+  - Pulp and Paper
+  - Tenders
+  - Waste
+  - Water Treatment
 project-tags:
   - Asset Management
   - Change Management

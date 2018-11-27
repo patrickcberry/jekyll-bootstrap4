@@ -3,12 +3,27 @@ layout: project
 isProject: true
 title: Fairfield AWTP
 categories:
+  - Asset Management
+  - Change Management
+  - Control Systems Integration
+  - Digital Engineer
+  - Digital Transformation
+  - ECI (Early Contractor Involvement)
+  - Engineering Management
+  - Information Technology
+  - Maintenance
+  - Predictive Analytics
+  - Project Management
+  - Pulp and Paper
+  - Tenders
+  - Waste
+  - Water Treatment
 project-tags:
-  - Incomplete-VWA
+  - Water
 resumeSectionId: ResumeProjects
 
-date-from: 20xx
-date-to: 20xx
+date-from: 2009
+date-to: 2011
 location: Sydney, Australia
 
 client-logo:
@@ -26,17 +41,24 @@ custom-section-image:
 custom-section-image-styles:
 
 overview:
-  - E&I design and construction review
+  - Recycled Water Plant.
 
 role:
   - Electrical Engineer
 
 description:
+  - Veolia operates the Fairfield Recycled Water Plant, which delivers recycled
+    water to industrial customers in western Sydney and has a capacity of 20  
+    million litres per day after designing and building the plant.
+
 description-list:
 description-post-list:
 
 challenges:
+  - Major challenge on this project where,
 challenges-list:    
+  - Using an associated company as out principal contractor
+  - Poorly scoped project
 challenges-post-list:    
 
 accomplishments:

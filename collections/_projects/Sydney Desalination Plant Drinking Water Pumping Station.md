@@ -3,14 +3,27 @@ layout: project
 isProject: true
 title: Sydney Desalination Plant Drinking Water Pumping Station
 categories:
-  - Engineering
+  - Asset Management
+  - Change Management
+  - Control Systems Integration
+  - Digital Engineer
+  - Digital Transformation
+  - ECI (Early Contractor Involvement)
+  - Engineering Management
+  - Information Technology
+  - Maintenance
+  - Predictive Analytics
   - Project Management
+  - Pulp and Paper
+  - Tenders
+  - Waste
+  - Water Treatment
 project-tags:
-  - Incomplete-VWA
+  - Water
 resumeSectionId: ResumeProjects
 
-date-from: 20xx
-date-to: 20xx
+date-from: 2010
+date-to: 2010
 location: Sydney, Australia
 
 client-logo:

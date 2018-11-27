@@ -3,14 +3,27 @@ layout: project
 isProject: true
 title: Veolia Water Major Tenders
 categories:
+  - Asset Management
+  - Change Management
+  - Control Systems Integration
+  - Digital Engineer
+  - Digital Transformation
+  - ECI (Early Contractor Involvement)
+  - Engineering Management
+  - Information Technology
+  - Maintenance
+  - Predictive Analytics
+  - Project Management
+  - Pulp and Paper
   - Tenders
+  - Waste
   - Water Treatment
 project-tags:
-  - Incomplete-VWA
+  - Tenders
 resumeSectionId: ResumeProjects
 
-date-from: 20xx
-date-to: 20xx
+date-from: 2008
+date-to: 2014
 location: Australia
 
 client-logo: veolia-logo.png
@@ -47,7 +60,7 @@ description-list:
     bid team
   - Altona RWTP
   - Sunbury WWTP
-  - Coliban Water 
+  - Coliban Water
 description-post-list:
 
 challenges:

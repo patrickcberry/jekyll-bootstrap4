@@ -3,7 +3,20 @@ layout: project
 isProject: true
 title: Serck Controls Sydney Water Major Projects
 categories:
+  - Asset Management
+  - Change Management
+  - Control Systems Integration
+  - Digital Engineer
+  - Digital Transformation
+  - ECI (Early Contractor Involvement)
+  - Engineering Management
+  - Information Technology
+  - Maintenance
+  - Predictive Analytics
   - Project Management
+  - Pulp and Paper
+  - Tenders
+  - Waste
   - Water Treatment
 project-tags:
   - Control Systems Integration

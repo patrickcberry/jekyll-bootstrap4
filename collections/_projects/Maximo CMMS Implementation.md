@@ -4,16 +4,28 @@ isProject: true
 title: Maximo CMMS Implementation
 categories:
   - Asset Management
+  - Change Management
+  - Control Systems Integration
+  - Digital Engineer
+  - Digital Transformation
+  - ECI (Early Contractor Involvement)
+  - Engineering Management
+  - Information Technology
+  - Maintenance
+  - Predictive Analytics
   - Project Management
+  - Pulp and Paper
+  - Tenders
+  - Waste
+  - Water Treatment
 project-tags:
   - Asset Management
   - CMMS
   - Project Management  
-  - Incomplete-VWA
 resumeSectionId: ResumeProjects
 
-date-from: 20xx
-date-to: 20xx
+date-from: 2009
+date-to: 2010
 location: Sydney, Australia
 
 client-logo: sydney-water-logo.png

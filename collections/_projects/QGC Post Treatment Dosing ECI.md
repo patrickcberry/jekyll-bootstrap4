@@ -3,19 +3,30 @@ layout: project
 isProject: true
 title: QGC Post Treatment Dosing ECI
 categories:
+  - Asset Management
+  - Change Management
+  - Control Systems Integration
+  - Digital Engineer
+  - Digital Transformation
+  - ECI (Early Contractor Involvement)
   - Engineering Management
+  - Information Technology
+  - Maintenance
+  - Predictive Analytics
   - Project Management
+  - Pulp and Paper
   - Tenders
+  - Waste
+  - Water Treatment
 project-tags:
   - Design
   - Design Management
   - Tender
   - Water Treatment
-  - Incomplete-VWA
 resumeSectionId: ResumeProjects
 
-date-from: 20xx
-date-to: 20xx
+date-from: 2014
+date-to: 2014
 location: Wandoan, Australia
 
 client-logo: qgc-logo.png

@@ -3,15 +3,27 @@ layout: project
 isProject: true
 title: Operational Data Management System
 categories:
+  - Asset Management
+  - Change Management
+  - Control Systems Integration
+  - Digital Engineer
   - Digital Transformation
+  - ECI (Early Contractor Involvement)
+  - Engineering Management
   - Information Technology
+  - Maintenance
+  - Predictive Analytics
+  - Project Management
+  - Pulp and Paper
+  - Tenders
+  - Waste
+  - Water Treatment
 project-tags:
   - OSIsoft PI
   - Liferay
   - Pentaho
   - Excel VBA
   - Analytics
-  - Incomplete-VANZ
 resumeSectionId: ResumeProjects
 
 date-from: 2014
@@ -22,8 +34,8 @@ client-logo: veolia-logo.png
 client-logo-styles: project-client-logo-image-max-height
 
 banner-image: odms-banner.png
-overview-image: odms-screen.png
-overview-image-styles: project-image-float-right project-image-width-40
+overview-image: ODMSCapture.png
+overview-image-styles: project-image-float-right project-image-width-50
 description-image:
 description-image-styles:
 challenges-image: odms-rpt.png
