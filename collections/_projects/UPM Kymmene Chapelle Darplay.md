@@ -3,93 +3,28 @@ layout: project
 isProject: true
 title: UPM Kymmene Chapelle Darplay
 categories:
-  - Asset Management
-  - Change Management
-  - Control Systems Integration
-  - Digital Engineer
-  - Digital Transformation
-  - ECI (Early Contractor Involvement)
-  - Engineering Management
-  - Information Technology
-  - Maintenance
-  - Predictive Analytics
-  - Project Management
+  - Control Systems
+  - Digital Engineering    
   - Pulp and Paper
-  - Tenders
-  - Waste
-  - Water Treatment
 project-tags:
   - 199x
-  - 200x
-  - 201x
-  - Analytics
-  - Angular
-  - AngularJS
-  - Asset Management
   - Australia
   - Boilers
-  - Change Management
-  - CMMS
   - Commissioning
-  - Condition Assessment
-  - Consulting
-  - Control Systems Integration
-  - Databases
+  - Control Systems
   - DCS
-  - Design Management
   - Digital Engineering
-  - Digital Transformation
-  - District Heating and Cooling
-  - ECI (Early Contractor Involvement)
-  - Engineer Design
-  - Engineering Management
-  - Excel VBA
+  - Engineering Design
   - FAT
-  - France
-  - High Voltage
-  - HMI
-  - Honeywell Alcont
-  - Honeywell TDC3000
-  - HTML
   - Industrial Control Systems
-  - Information Technology
   - Installation Supervision
   - Instrumentation
-  - Java
-  - Lend Lease
-  - Liferay
-  - Load Shedding
-  - Maintenance
-  - Metso DNA
-  - Mondi Paper
-  - Nodejs
-  - Norske Skog
-  - Operations Establishment
-  - OSIsoft PI
-  - Paper
+  - Metso DNA Valmet XD
   - Paper & Board Machines
-  - Pentaho Power
-  - PLC
-  - Power Generation
-  - Power Systems
-  - Predictive Analytics
-  - Procurement
-  - Project Management
   - Pulp and Paper
   - Recycled Fibre (RCF)
-  - Requirements Definition
-  - RFID
-  - SCADA
-  - Shutdowns
-  - Sydney Water
-  - Tenders
-  - UPM-Kymmene
-  - URS, FDS
-  - Veolia
-  - Waste
-  - Water
+  - URS FDS
   - Water Treatment
-  - Web Applications
 resumeSectionId: ResumeProjects
 
 date-from: 1998
@@ -122,6 +57,7 @@ description-list:
   - Effluent Treatment
   - Power Plant
   - DIP 1 & 2
+  - Package Boilers
 
 description-post-list:
   - Commissioning support and start-up services where included in this project requiring seven weeks on site including a 14 day shut down for PM6 and 10 day shut down for PM3.

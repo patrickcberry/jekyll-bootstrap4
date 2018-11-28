@@ -15,13 +15,6 @@ permalink: /resume/capabilities.html
 
 ### Engineering Management
 
-<div class="alert alert-warning">
-  <div class="">
-    <h6 class="alert-heading">To be updated: </h6>
-    <p class="">This section to reviewed and updated</p>
-  </div>
-</div>
-
 - Have driven efficiencies within a project engineering group by; setting and monitoring performance targets, mentoring engineering team members and establishing project control systems
 - Improved project controls by implemented a weekly project reporting system in the Serck Sydney office
 - Can manage a team of professionals to achieve superior results
@@ -29,42 +22,23 @@ permalink: /resume/capabilities.html
 
 ### Project Management
 
-<div class="alert alert-warning">
-  <div class="">
-    <h6 class="alert-heading">To be updated: </h6>
-    <p class="">This section to reviewed and updated</p>
-  </div>
-</div>
-
-- Significant project management experience of electrical and control systems projects
+- Significant project and program management experience of electrical and control systems projects
 - Experience at managing risk, technical and commercial outcomes
 - A track record of managing complex engineering projects which are both financially and technically successful while fully meeting client expectations
 - Proactive problem solving approach which assists in timely identification and resolution of financial, technical and commercial issues
 
 ### Electrical Engineering
 
-<div class="alert alert-warning">
-  <div class="">
-    <h6 class="alert-heading">To be updated: </h6>
-    <p class="">This section to reviewed and updated</p>
-  </div>
-</div>
-
 - Strong skills in control systems application programming, implementation, specification and supervision
 - Instrumentation specification, design, configuration, testing and commissioning
+- Broad knowledge of electrical engineering
 
 ### Business Development
-
-<div class="alert alert-warning">
-  <div class="">
-    <h6 class="alert-heading">To be updated: </h6>
-    <p class="">This section to reviewed and updated</p>
-  </div>
-</div>
 
 - Operator’s Electrical Engineer supervising the tender design on the Basswater (Veolia Water, John Holland, ABN AMRO) $3.6 billion Victorian Desalination Plant bid
 - Expanded Serck Controls Sydney client base
 - Business development responsibility for the Albury regional office of MIPAC and Account Manager for Pulp and Paper
+- Broad rand of experience in a wide range of large tenders
 
 </div>
 </div>
@@ -74,32 +48,21 @@ permalink: /resume/capabilities.html
 
 ### Automation and Process Control
 
-<div class="alert alert-warning">
-  <div class="">
-    <h6 class="alert-heading">To be completed: </h6>
-    <p class="">This section to be completed</p>
-  </div>
-</div>
+- Broad experience of process automation mostly in the continuous process industries
+- Experience of DCS and PLC/SCADA systems
+- Roles have included all aspects from concept design, specification, programming, FAT, SAT and commissioning.
 
 ### Software Development
 
-<div class="alert alert-warning">
-  <div class="">
-    <h6 class="alert-heading">To be completed: </h6>
-    <p class="">This section to be completed</p>
-  </div>
-</div>
+- Undergraduate qualifications in Computer System and Postgraduate in Software Engineering
+- Client and Server side Java programming
+- Node.js and Angular development
+- Minor work in VBA, AutoLISP, SQL, XML, XSLT
+- Exposure to C, C++, R, Pascal
 
 ### Engineering
 
-<div class="alert alert-warning">
-  <div class="">
-    <h6 class="alert-heading">To be reviewed: </h6>
-    <p class="">This section from 'General' in resume capabilities and experience</p>
-  </div>
-</div>
-
-- Chartered Professional Electrical Engineer and RPEQ
+- Chartered Professional Electrical Engineer, Engineering Executive and RPEQ
 - Extensive international project experience
 - Proven skills in working in multi-disciplined teams on large, complex projects within tight delivery time frames delivering projects that meet client expectations and are profitable
 - Experience with all project phases from concept design, detail design, testing and commissioning
@@ -108,22 +71,11 @@ permalink: /resume/capabilities.html
 
 ### Tender Management
 
-<div class="alert alert-warning">
-  <div class="">
-    <h6 class="alert-heading">To be completed: </h6>
-    <p class="">This section to be completed</p>
-  </div>
-</div>
+- Exposure to management of large tenders (details [here](/category-projects/Tenders))
 
 ### Maintenance
 
-<div class="alert alert-warning">
-  <div class="">
-    <h6 class="alert-heading">To be completed: </h6>
-    <p class="">This section to be completed</p>
-  </div>
-</div>
-
+- Exposure to [maintenance](/category-projects/Maintenance) and [asset management](/category-projects/Asset%20Management)
 
 
 </div>

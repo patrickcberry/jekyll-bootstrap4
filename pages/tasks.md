@@ -23,70 +23,6 @@ permalink: /tasks.html
 <div class="container">
 <div class="row">
 
-<div class="col-md-4">            
-<div markdown="1">
-##### Pre Deployment
-
-###### CV and Cover Letter Material Incorporated
-- Review and include CV
-- Review all content against updated CV for 2018
-- Review and include Cover Letter
-
-###### Pages
-- Contact
-- About
-
-###### Resume - Sections
-- Capabilities
-- Achievements
-- Specialties
-- Key Positions
-- Projects
-- Skills
-- Locations
-
-###### Resume - Project Categories
-Progress, [1][2][3]
-1. Page created
-2. Description
-3. Linked projects
-
-- [X][-][-] Control Systems Integration
-- [X][-][-] Engineering Management
-- [X][-][-] Information Technology
-- [X][-][-] Predictive Analytics
-- [X][-][-] Pulp and Paper
-- [X][-][-] Water Treatment
-- [X][X][-] Tenders
-- [-][-][-] ECI
-- [-][-][-] Engineering Management
-- [X][X][-] Project Management
-- [X][X][-] Change Management
-- [-][-][-] Waste
-- [-][-][-] Maintenance
-- [-][-][-] Digital Engineering - JALINA, ELINA
-- [-][-][-] Digital Transformation - ELINA
-
-###### Resume - Project Content
-- Update Operational Data Management System
-- Waste Tracking System
-- Update related projects for all
-
-###### Resume Locations
-- Resize map height based on media queries
-- Links from markers to project descriptions
-- Links from project descriptions to map
-- Street view
-- Include all projects/locations
-- Include a legend for different pin colours
-
-###### Closeout and deploy
-- Post deployment tasks to GitHub issues
-- Remove tasks page
-
-</div>
-</div>
-
 <div class="col-md-4">
 <div markdown="1">
 ##### Post Deployment (Content + Features)
@@ -96,12 +32,30 @@ Progress, [1][2][3]
 - Formatting
 - Replace menu item (currently hidden)
 
-###### Blog Posts
-- Digital transformation of internal engineering teams
-- Static website generation (Jekyll)
-
 ###### Resume Content
 *Some content will need to be delayed to be able to deploy and have blog operational*
+
+- WLTP project
+- White Swan HV Condition Assessment
+- Horsley Park
+
+###### Resume - Sections
+*This is now hidden in includes/sidebar-resume.html*
+- Specialties
+- Skills
+- Locations
+
+###### Resume Locations
+- Resize map height based on media queries
+- Links from markers to project descriptions
+- Links from project descriptions to map
+- Street view
+- Include all projects/locations
+- Include a legend for different pin colours
+
+###### Resume - Project Content
+- Update related projects for all
+
 
 </div>
 </div>
@@ -124,10 +78,10 @@ Progress, [1][2][3]
 - Project Tags - Add a count
 - Project Tags - Improve formatting
 - Browse projects in chronological order
-- Filter projects by decade 1990, 2000, 2010
 - Download PDF link
 - Add employer to each project description
 - Links to navigate to next and previous projects
+- List projects in a three column view
 
 ###### Resume Formatting
 - Collapse sidebar on small devices
@@ -165,6 +119,19 @@ Progress, [1][2][3]
 
 </div>
 </div>
+
+<div class="col-md-4">            
+<div markdown="1">
+##### Post Deployment
+
+###### Blog Posts
+- Digital transformation of internal engineering teams
+- Static website generation (Jekyll)
+
+
+</div>
+</div>
+
 
 </div>
 </div>

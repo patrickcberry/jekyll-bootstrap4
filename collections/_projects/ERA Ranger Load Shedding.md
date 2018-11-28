@@ -3,93 +3,20 @@ layout: project
 isProject: true
 title: ERA Ranger Load Shedding
 categories:
-  - Asset Management
-  - Change Management
-  - Control Systems Integration
-  - Digital Engineer
-  - Digital Transformation
-  - ECI (Early Contractor Involvement)
-  - Engineering Management
-  - Information Technology
-  - Maintenance
-  - Predictive Analytics
+  - Control Systems
   - Project Management
-  - Pulp and Paper
-  - Tenders
-  - Waste
-  - Water Treatment
 project-tags:
-  - 199x
-  - 200x
   - 201x
-  - Analytics
-  - Angular
-  - AngularJS
-  - Asset Management
   - Australia
-  - Boilers
-  - Change Management
-  - CMMS
-  - Commissioning
-  - Condition Assessment
-  - Consulting
-  - Control Systems Integration
-  - Databases
-  - DCS
-  - Design Management
-  - Digital Engineering
-  - Digital Transformation
-  - District Heating and Cooling
-  - ECI (Early Contractor Involvement)
-  - Engineer Design
-  - Engineering Management
-  - Excel VBA
-  - FAT
-  - France
-  - High Voltage
-  - HMI
-  - Honeywell Alcont
-  - Honeywell TDC3000
-  - HTML
+  - Control Systems
+  - Engineering Design
   - Industrial Control Systems
-  - Information Technology
-  - Installation Supervision
-  - Instrumentation
-  - Java
-  - Lend Lease
-  - Liferay
   - Load Shedding
-  - Maintenance
-  - Metso DNA
-  - Mondi Paper
-  - Nodejs
-  - Norske Skog
-  - Operations Establishment
-  - OSIsoft PI
-  - Paper
-  - Paper & Board Machines
-  - Pentaho Power
-  - PLC
   - Power Generation
   - Power Systems
-  - Predictive Analytics
-  - Procurement
   - Project Management
-  - Pulp and Paper
-  - Recycled Fibre (RCF)
-  - Requirements Definition
-  - RFID
-  - SCADA
-  - Shutdowns
-  - Sydney Water
-  - Tenders
-  - UPM-Kymmene
-  - URS, FDS
   - Veolia
-  - Waste
-  - Water
   - Water Treatment
-  - Web Applications
 resumeSectionId: ResumeProjects
 
 date-from: 2014
@@ -100,7 +27,7 @@ client-logo: era-logo.svg
 
 banner-image:
 overview-image: era-ranger.jpg
-overview-image-styles: project-image-float-right project-image-width-40
+overview-image-styles: project-image-float-right project-image-width-50
 description-image:
 description-image-styles:
 challenges-image:

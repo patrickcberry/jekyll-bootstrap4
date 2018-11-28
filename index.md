@@ -6,14 +6,14 @@ carousel: true
 card1-image: /assets/about-me.jpg
 card1-title: About Page
 card1-text: Description of the purpose of this site and background info on the author.
-card1-update: May 2018
+card1-update: November 2018
 card1-link: /about.html
 card1-link-text: See the new About page ...
 
 card2-image: /assets/resume.jpg
 card2-title: Resume
 card2-text: Online and interactive resume.
-card2-update: May 2018
+card2-update: November 2018
 card2-link: /resume.html
 card2-link-text: See the online resume ...
 

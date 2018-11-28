@@ -3,93 +3,14 @@ layout: project
 isProject: true
 title: Veolia Water Technical Support to Minor Projects
 categories:
-  - Asset Management
-  - Change Management
-  - Control Systems Integration
-  - Digital Engineer
-  - Digital Transformation
-  - ECI (Early Contractor Involvement)
-  - Engineering Management
-  - Information Technology
-  - Maintenance
-  - Predictive Analytics
-  - Project Management
-  - Pulp and Paper
-  - Tenders
-  - Waste
+  - Control Systems
   - Water Treatment
 project-tags:
-  - 199x
   - 200x
   - 201x
-  - Analytics
-  - Angular
-  - AngularJS
-  - Asset Management
   - Australia
-  - Boilers
-  - Change Management
-  - CMMS
-  - Commissioning
-  - Condition Assessment
-  - Consulting
-  - Control Systems Integration
-  - Databases
-  - DCS
-  - Design Management
-  - Digital Engineering
-  - Digital Transformation
-  - District Heating and Cooling
-  - ECI (Early Contractor Involvement)
-  - Engineer Design
-  - Engineering Management
-  - Excel VBA
-  - FAT
-  - France
-  - High Voltage
-  - HMI
-  - Honeywell Alcont
-  - Honeywell TDC3000
-  - HTML
-  - Industrial Control Systems
-  - Information Technology
-  - Installation Supervision
-  - Instrumentation
-  - Java
-  - Lend Lease
-  - Liferay
-  - Load Shedding
-  - Maintenance
-  - Metso DNA
-  - Mondi Paper
-  - Nodejs
-  - Norske Skog
-  - Operations Establishment
-  - OSIsoft PI
-  - Paper
-  - Paper & Board Machines
-  - Pentaho Power
-  - PLC
-  - Power Generation
-  - Power Systems
-  - Predictive Analytics
-  - Procurement
-  - Project Management
-  - Pulp and Paper
-  - Recycled Fibre (RCF)
-  - Requirements Definition
-  - RFID
-  - SCADA
-  - Shutdowns
-  - Sydney Water
-  - Tenders
-  - UPM-Kymmene
-  - URS, FDS
-  - Veolia
-  - Waste
-  - Water
+  - Control Systems
   - Water Treatment
-  - Web Applications
 resumeSectionId: ResumeProjects
 
 date-from: 2008

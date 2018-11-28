@@ -1,6 +1,6 @@
 ---
 layout: project-category
-title: Digital Engineer
+title: Digital Engineering
 resumeSectionId: ResumeProjects
 projectCatetory: true
 ---

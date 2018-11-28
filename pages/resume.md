@@ -30,9 +30,9 @@ Currently working for a large environmental services business with in excess of 
 
 #### Objectives
 
-Currently seeking challenging positions and/or assignments in the following areas with dynamic, innovative and forward thinking organizations where engineering is critical to their success.
+Currently seeking challenging positions, assignments or collaboration opportunities in the following areas with dynamic, innovative and forward thinking individuals or organizations where engineering is critical to their success.
 
-Am particularly interested in Digital Transformation, Big Data and Analytics and being part of an engineering team that implements these.
+Am particularly interested in Digital Transformation, IoT, Big Data and Analytics and being part of an engineering team that implements these.
 
 ##### Engineering Management:
 

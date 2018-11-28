@@ -63,9 +63,11 @@
 			<a class="nav-link nav-link-sm" href="/resume/achievements">Achievements</a>
 		</li>
 
+		{% if jekyll.environment == "development" %}
 		<li class="nav-item nav-pad resume-sidebar-item" role="presentation" id="ResumeSpecialities">
 			<a class="nav-link nav-link-sm" href="/resume/specialities">Specialities</a>
 		</li>
+		{% endif %}
 
 		<li class="nav-item nav-pad resume-sidebar-item" role="presentation" id="ResumeKeyPositions">
 			<a class="nav-link nav-link-sm" href="/resume/keypositions">Key Positions</a>
@@ -79,9 +81,11 @@
 			<a class="nav-link nav-link-sm" href="/resume/projects">Projects & Activities</a>
 		</li>
 
+		{% if jekyll.environment == "development" %}
 		<li class="nav-item nav-pad resume-sidebar-item" role="presentation" id="ResumeSkills">
 			<a class="nav-link nav-link-sm" href="/resume/skills">Skills</a>
 		</li>
+		{% endif %}
 
 		<li class="nav-item nav-pad resume-sidebar-item" role="presentation" id="ResumeQualifications">
 			<a class="nav-link nav-link-sm" href="/resume/qualifications">Qualifications & Certifications</a>
@@ -91,9 +95,11 @@
 			<a class="nav-link nav-link-sm" href="/resume/training">Training</a>
 		</li>
 
+		{% if jekyll.environment == "development" %}
 		<li class="nav-item nav-pad resume-sidebar-item" role="presentation" id="ResumeLocations">
 			<a class="nav-link nav-link-sm" href="/resume/locations">Locations</a>
 		</li>
+		{% endif %}
 
 	</div>
 </div>

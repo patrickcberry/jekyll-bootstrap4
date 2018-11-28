@@ -7,14 +7,6 @@ permalink: /resume/keypositions.html
 ---
 <div class="container">
 
-<div class="alert alert-danger">
-  <div class="">
-    <h4 class="alert-heading">Incomplete page: </h4>
-    <p class="">This page to be completed prior to deployment.</p>
-  </div>
-</div>
-
-
 <div class="row">
 
 <div class="col-md-6">            
@@ -22,8 +14,10 @@ permalink: /resume/keypositions.html
 
 ### Engineering Manager
 
-- Nowra
-- MBHP
+Have taken on the role of Engineering Manager for the following two tenders
+with Veolia,
+- West Nowra Waste Processing Facility
+- Murry to Broken Hill Pipeline
 
 ### Electrical Engineering Management
 
@@ -41,7 +35,7 @@ Veolia has extensive operations across Australia and New Zealand and my responsi
 - Management of contractors and consultants
 - Maintain relationships with key equipment and service providers
 
-Relevent organisations:
+Relevant organizations:
 - Veolia Australia and New Zealand
 - Veolia Water Australia
 
@@ -52,15 +46,18 @@ Operations management experience includes the following,
 - Project Manager for Department of Defence Waste Services contract establishment
 - Deputy Albury office manager for MIPAC
 
-Relevent organisations:
+Relevant organizations:
 - Serck Controls
+- Veolia
 - MIPAC
 
 ### Projects Manager
 
-At Serck Controls was responsible was responsible for the management of the Major Projects Group based in Sydney.
+At Serck Controls was responsible was responsible for the management of the
+Major Projects Group based in Sydney.
 
-This group was delivering up to a dozen projects concurrently across multiple sites and clients.
+This group was delivering up to a dozen projects concurrently across multiple
+sites and clients.
 
 Relevent organisations:
 - Serck Controls
@@ -73,7 +70,7 @@ Relevent organisations:
 
 ### Project Manager
 
-Have managed numerous projects over the past ten years with a number of organisations.
+Have managed numerous projects over the past ten years with a number of organizations.
 
 A selection of significant projects that I have managed,
 - Post Treatment Dosing Facility. Tender for QGC delivered under an ECI model.
@@ -83,7 +80,7 @@ A selection of significant projects that I have managed,
 - Norske Skog, A1-265 PM1 Upgrade. Electrical and Instrumentation design, installation and commissioning of off-machine systems associated with a major paper machine rebuild.
 Veolia Water Australia and New Zealand
 
-Relevent organisations:
+Relevant organizations:
 - Veolia Australia and New Zealand
 - Veolia Water Australia
 - Serck Controls
@@ -95,7 +92,7 @@ Have had various account management and business development responsibilities wi
 
 With MIPAC, I was the Account Manager for Pulp and Paper and responsible for business development activities in the Albury region.
 
-Relevent organisations:
+Relevant organizations:
 - MIPAC
 
 ### Project Engineer
@@ -104,7 +101,7 @@ Have electrical, automation, and process project engineering experience. Signifi
 
 Have worked for many years on large and complex projects.
 
-Relevent organisations:
+Relevant organizations:
 - Jaakko Poyry
 - MIPAC
 

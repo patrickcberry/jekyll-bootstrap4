@@ -6,14 +6,6 @@ title: Resume
 permalink: /resume/achievements.html
 ---
 <div class="container">
-
-<div class="alert alert-danger">
-  <div class="">
-    <h4 class="alert-heading">Incomplete page: </h4>
-    <p class="">This page to be completed prior to deployment.</p>
-  </div>
-</div>
-
 <div class="row">
 
 <div class="col-md-6">            
@@ -36,22 +28,33 @@ period staff turnover was exceptionally low and we also managed to grow the
 size of the team even though this was the peak of the mining boom.
 
 ### Engineering Management
-**Cybersecurity Audits:**
-
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis_
 
 **Veolia standards:**
 
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis_
+Implementation of a set of Veolia engineering standards covering electrical
+engineering, instrumentation and control systems.
 
 **PLC / SCADA Library:**
 
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis_
+Implemented a library standard PLC and SCADA function blocks for reuse across
+multiple Veolia sites. The benefits of use a standard library include,
+- Reduced engineering time
+- Consistent operator interface between sites
+- Reduced testing and commissioning time (due to the reuse of standard, tested components)
+
+**Cybersecurity Audits:**
+
+Managed the cybersecurity audits of industrial control systems at Veolia's Australian
+sites as part of a global audit program.
 
 ### Shutdown Management
 **Norske Skog Albury PM shutdown:**
 
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis_
+The control system upgrade of newsprint machine at the Norske Skog Paper Mill
+in Albury included two shutdowns. The second shutdown was very successful with
+the machine being handed back to operations after nine days when 14 was scheduled.
+
+See, [Norske Skog Albury Mill Automation Upgrade](/projects/Norske%20Skog%20Albury%20Mill%20Automation%20Upgrade)
 
 </div>
 </div>
@@ -80,22 +83,33 @@ I managed the redeployment and redundancy of affected staff.
 ### Business Process Improvement
 **Operational Data Management System (ODMS) project:**
 
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis_
+Proposed the implementation of an enterprise historian for the management
+and reporting of process operational data in Veolia and managed it's
+implementation.
+
+See, [Operational Data Management System](/projects/Operational%20Data%20Management%20System)
 
 **Bulk Waste Tracking System:**
 
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis_
+Specified and implemented a web based system to track bulk waste from Veolia
+transfer stations in Sydney to disposal location at Woodlawn.
+
+See, [Waste Tracking System](/projects/Waste%20Tracking%20System)
 
 **Service agreements:**
 
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis_
+Have negotiated various service agreements and standing offer consultancy
+agreements while at Veolia.
 
 **Quotation management system:**
 
-_Quotation templates and support materials, quotation management and approval system_
+Implementation of quotation templates and support materials, including
+quotation management and approval system at Serck Controls and MIPAC.
 
 ### Business Development
-_Diversified client base at Serck Controls from utilities only into manufacturing (Fletcher Building & CoreGas)_
+Diversified client base at Serck Controls from utilities only into manufacturing (Fletcher Building & CoreGas).
+
+Pulp and Paper Account Manager at Serck Controls.
 
 </div>
 </div>
