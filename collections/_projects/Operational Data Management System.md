@@ -37,12 +37,12 @@ location: Australia and New Zealand
 client-logo: veolia-logo.png
 client-logo-styles: project-client-logo-image-max-height
 
-banner-image: odms-banner.png
-overview-image: ODMSCapture.png
+banner-image: odms-banner.PNG
+overview-image: ODMSCapture.PNG
 overview-image-styles: project-image-float-right project-image-width-50
 description-image:
 description-image-styles:
-challenges-image: odms-rpt.png
+challenges-image: odms-rpt.PNG
 challenges-image-styles: project-image-float-right project-image-width-40
 accomplishments-image:
 accomplishments-image-styles: project-image-float-right project-image-width-40

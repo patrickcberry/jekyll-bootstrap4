@@ -19,7 +19,7 @@ date-from: 2017
 date-to: 2017
 location: Nowra, Australia
 
-client-logo: scc-logo.png
+client-logo: scc-logo.PNG
 
 banner-image: scc-drum-x.jpg
 overview-image: scc-3d-x.jpg

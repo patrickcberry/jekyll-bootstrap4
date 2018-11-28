@@ -20,7 +20,7 @@ date-from: 2017
 date-to: 2017
 location: Sydney, Australia
 
-client-logo: wnsw-logo.png
+client-logo: wnsw-logo.PNG
 
 banner-image:
 overview-image:

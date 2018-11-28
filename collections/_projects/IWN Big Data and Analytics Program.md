@@ -25,7 +25,7 @@ location: Melbourne, Australia
 
 client-logo: iwn-logo.jpg
 
-banner-image: waternamics-banner.png
+banner-image: waternamics-banner.PNG
 overview-image: waternamics.jpg
 overview-image-styles: project-image-float-right project-image-width-40
 description-image:

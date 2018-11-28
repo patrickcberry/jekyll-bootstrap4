@@ -43,7 +43,7 @@ layout: resume_default
       {% endfor %}
 
       {% if category_page %}
-        <a href="{{ site.baseurl }}{{ category_page.url }}">
+        <a href="{{ site.baseurl }}{{ category_page.url }}.html">
           {{ category }}
         </a>
       {% else %}
@@ -171,7 +171,7 @@ layout: resume_default
   <ul>
     {% for p in page.related-projects %}
     <li>
-      <a href="{{ site.baseurl }}{{ p }}">
+      <a href="{{ site.baseurl }}{{ p }}.html">
         {{ p }}
       </a>
     </li>

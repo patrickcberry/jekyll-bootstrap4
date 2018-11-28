@@ -65,7 +65,7 @@ permalink: /resume/project-tags.html
       {% if tag_array contains tag %}
         <li>
           <!--<h5>-->
-            <a href="{{ site.baseurl }}{{ page.url }}">
+            <a href="{{ site.baseurl }}{{ page.url }}.html">
               {{ page.title }}
               <!--
               <small>{{ page.date | date_to_string }}</small>

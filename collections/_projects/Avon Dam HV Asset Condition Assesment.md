@@ -23,7 +23,7 @@ location: Sydney, Australia
 
 client-logo: sydney-water-logo.png
 
-banner-image: avon-banner.png
+banner-image: avon-banner.PNG
 overview-image:
 overview-image-styles:
 description-image:

@@ -35,7 +35,7 @@ client-logo: UPM_logo.png
 client-logo-styles: project-client-logo-image-max-height
 
 banner-image: upm-france-chapelle-banner.jpg
-overview-image: upm-france-chapelle-PM6.png
+overview-image: upm-france-chapelle-PM6.PNG
 overview-image-styles: project-image-float-right project-image-width-50
 description-image:
 description-image-styles:

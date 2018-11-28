@@ -23,7 +23,7 @@ date-from: 1998
 date-to: 1998
 location: Golbey, France
 
-client-logo: norske_skog-logo.png
+client-logo: Norske_Skog-logo.png
 
 banner-image:
 overview-image:

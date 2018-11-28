@@ -54,7 +54,7 @@ The control system upgrade of newsprint machine at the Norske Skog Paper Mill
 in Albury included two shutdowns. The second shutdown was very successful with
 the machine being handed back to operations after nine days when 14 was scheduled.
 
-See, [Norske Skog Albury Mill Automation Upgrade](/projects/Norske%20Skog%20Albury%20Mill%20Automation%20Upgrade)
+See, [Norske Skog Albury Mill Automation Upgrade](/projects/Norske%20Skog%20Albury%20Mill%20Automation%20Upgrade.html)
 
 </div>
 </div>
@@ -87,14 +87,14 @@ Proposed the implementation of an enterprise historian for the management
 and reporting of process operational data in Veolia and managed it's
 implementation.
 
-See, [Operational Data Management System](/projects/Operational%20Data%20Management%20System)
+See, [Operational Data Management System](/projects/Operational%20Data%20Management%20System.html)
 
 **Bulk Waste Tracking System:**
 
 Specified and implemented a web based system to track bulk waste from Veolia
 transfer stations in Sydney to disposal location at Woodlawn.
 
-See, [Waste Tracking System](/projects/Waste%20Tracking%20System)
+See, [Waste Tracking System](/projects/Waste%20Tracking%20System.html)
 
 **Service agreements:**
 

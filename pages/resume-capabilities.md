@@ -71,11 +71,11 @@ permalink: /resume/capabilities.html
 
 ### Tender Management
 
-- Exposure to management of large tenders (details [here](/category-projects/Tenders))
+- Exposure to management of large tenders (details [here](/category-projects/Tenders.html))
 
 ### Maintenance
 
-- Exposure to [maintenance](/category-projects/Maintenance) and [asset management](/category-projects/Asset%20Management)
+- Exposure to [maintenance](/category-projects/Maintenance.html) and [asset management](/category-projects/Asset%20Management.html)
 
 
 </div>

@@ -39,7 +39,7 @@ location: Australia and New Zealand
 client-logo: veolia-logo.png
 client-logo-styles: project-client-logo-image-max-height
 
-banner-image: odms-banner.png
+banner-image: odms-banner.PNG
 overview-image:
 overview-image-styles: project-image-float-right project-image-width-40
 description-image:

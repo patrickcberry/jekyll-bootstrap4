@@ -24,7 +24,7 @@ location: Sydney, Australia
 
 client-logo: ll-logo.png
 
-banner-image: barangaroo-banner.png
+banner-image: barangaroo-banner.PNG
 overview-image: barangaroo-dcp.jpg
 overview-image-styles: project-image-float-right project-image-width-50
 description-image:
@@ -65,5 +65,6 @@ accomplishments-list:
 accomplishments-post-list:    
 
 related-projects:
+- Barangaroo AWTP
 
 ---

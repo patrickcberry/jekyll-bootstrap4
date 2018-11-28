@@ -27,7 +27,7 @@ date-from: 2004
 date-to: 2005
 location: Albury, Australia
 
-client-logo: norske_skog-logo.png
+client-logo: Norske_Skog-logo.png
 
 banner-image:
 overview-image:

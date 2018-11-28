@@ -16,7 +16,7 @@ date-from: 1992
 date-to: 1993
 location: Melbourne, Australia
 
-client-logo: secv-logo.jpg
+client-logo: SECV-logo.jpg
 client-logo-styles: project-client-logo-image-max-height
 
 banner-image:

@@ -18,7 +18,7 @@ card2-link: /resume.html
 card2-link-text: See the online resume ...
 
 
-card3-image: /assets/blog1.png
+card3-image: /assets/Blog1.png
 card3-title: Jekyll Live reload
 card3-text: Resolution to live reload issue running Jekyll on Windows 10
 card3-update: 03 April 2018

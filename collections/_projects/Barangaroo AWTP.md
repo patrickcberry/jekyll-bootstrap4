@@ -24,7 +24,7 @@ location: Sydney, Australia
 
 client-logo: ll-logo.png
 
-banner-image: barangaroo-banner.png
+banner-image: barangaroo-banner.PNG
 overview-image:
 overview-image-styles:
 description-image:
@@ -71,5 +71,6 @@ accomplishments-list:
 accomplishments-post-list:    
 
 related-projects:
+- Barangaroo District Cooling
 
 ---
