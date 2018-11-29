@@ -67,6 +67,7 @@ permalink: /tasks.html
 ###### General
 - Add search (lunr.js)
 - Site formatting (review Rayhightower.com)
+- Add metadata for [google search](https://support.google.com/webmasters/answer/79812?hl=en)
 
 ###### Blog
 - Update theme colors

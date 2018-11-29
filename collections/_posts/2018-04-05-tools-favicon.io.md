@@ -16,4 +16,4 @@ guid: 2018-04-05-001
 
 <!--more-->
 
-[See site ...](https://favicon.io/)
+Download from [here](https://favicon.io/)
