@@ -64,15 +64,16 @@ permalink: /tasks.html
 <div markdown="1">
 ##### Post Deployment (Improvements)
 
+###### General
+- Add search (lunr.js)
+- Site formatting (review Rayhightower.com)
+
 ###### Blog
 - Update theme colors
 - Update formatting to fit rest of site
 - Consistent naming of blog posts
 - Remove test content
 - Enable
-
-###### Google Analytics
-- Add tracking to every page
 
 ###### Resume
 - Project Tags - Add a count

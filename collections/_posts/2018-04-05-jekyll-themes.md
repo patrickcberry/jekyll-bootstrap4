@@ -14,6 +14,4 @@ guid: 2018-04-05-000
 
 #### Jekyll Documentation Theme
 
-Jekyll theme for project and product documentation.
-
-[See ...](http://idratherbewriting.com/documentation-theme-jekyll/)
+[Jekyll theme](http://idratherbewriting.com/documentation-theme-jekyll/) for project and product documentation.

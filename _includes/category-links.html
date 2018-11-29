@@ -8,7 +8,7 @@
     {% if node.layout == "category" %}
       {% if node.projectCatetory != true %}
         <a class="category-link {% if page.url == node.url %} active{% endif %}"
-            href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+            href="{{ site.baseurl }}{{ node.url }}.html">{{ node.title }}</a>
       {% endif %}
     {% endif %}
   {% endif %}
