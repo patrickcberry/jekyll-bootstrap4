@@ -81,4 +81,5 @@ accomplishments-post-list:
 
 related-projects:
   - Integrated Operations and Remote Monitoring Platform
+  - Veolia Horsley Park Remote Monitoring
 ---

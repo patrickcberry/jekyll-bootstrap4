@@ -2,7 +2,7 @@ markdown:     kramdown
 highlighter:  rouge
 
 title:        Patrick Berry
-tagline:      'Portfolio'
+tagline:      'My Personal Portfolio'
 description:  'Personal portfolio site for Patrick Berry'
 
 sass:

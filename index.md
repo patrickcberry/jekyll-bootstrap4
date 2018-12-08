@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 menuId: MenuHome
 carousel: true
 

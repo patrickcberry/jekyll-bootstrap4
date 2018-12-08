@@ -37,7 +37,6 @@ permalink: /tasks.html
 
 - WLTP project
 - White Swan HV Condition Assessment
-- Horsley Park
 
 ###### Resume - Sections
 *This is now hidden in includes/sidebar-resume.html*
